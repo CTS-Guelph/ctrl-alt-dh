@@ -34,11 +34,6 @@ Slug: issue-2
 </div>
 
 <div class="article">
-<h3><a href="{filename}/posts/issue2-5.md">Nothing in Life is Free: Uncovering the Hidden Costs of Technology</a></h3>
-<p>Amelia Flynn</p>
-</div>
-
-<div class="article">
 <h3><a href="{filename}/posts/issue2-6.md">To VC or Not to VC</a></h3>
 <p>Samantha Winnick</p>
 </div>
