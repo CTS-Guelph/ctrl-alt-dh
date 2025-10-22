@@ -148,13 +148,14 @@ div.note {
 
 /* Tables */
 table {
-    margin: .5em auto 1.5em auto;
+    margin: unset;
+    /* Previous margin: .5em auto 1.5em auto*/
     max-width: 600px;
 }
 
 table, th, td {
-    border: 1px solid lightgrey;
-    padding: 1em;
+    border: 1px groove #578FFF;
+    padding: unset;
 }
 
 th {

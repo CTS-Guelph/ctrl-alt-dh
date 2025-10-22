@@ -1,7 +1,7 @@
 AUTHOR = 'cmiya'
 SITENAME = 'CTRL+ALT+DH'
-SITEURL = "https://cts-guelph.github.io/ctrl-alt-dh/"
-
+SITEURL = ""
+#https://cts-guelph.github.io/ctrl-alt-dh/
 PATH = "content"
 ARTICLE_PATHS = ['posts']
 PAGE_PATHS = ['pages']
