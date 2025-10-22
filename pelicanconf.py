@@ -56,11 +56,6 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = [
-    ('About', [
-        ('Who We Are', '/who-we-are.html'),
-        ('Team', '/team.html'),
-        ('Contact', '/contact.html')
-    ]),
     ('Issues', [
         ('Issue 0', '/issue-0.html'),
         ('Issue 1: Creating CTRL-ALT-DH', '/issue-1.html'),
