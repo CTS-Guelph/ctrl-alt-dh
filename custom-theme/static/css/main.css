@@ -154,7 +154,7 @@ table {
 }
 
 table, th, td {
-    border: 1px groove #578FFF;
+    border: 1px groove #487ce4;
     padding: unset;
 }
 
@@ -197,7 +197,7 @@ img.left, figure.left, div.figure.align-left {
 #banner {
     margin: 0 auto;
     padding: 0.8em 0 0 0;
-    background-color: #335348;
+    background-color: #487ce4;
 }
 
 	/* Banner */
@@ -220,14 +220,14 @@ img.left, figure.left, div.figure.align-left {
 }
 
 #banner h1 a:link, #banner h1 a:visited {
-    color: #29423A;
+    color: #0055FF;
     display: block;
     font-weight: bold;
     text-decoration: none;
 }
 #banner h1 a:hover, #banner h1 a:active {
     background: none;
-    color: #3D6456;
+    color: #578FFF;
     text-shadow: none;
 }
 
@@ -237,7 +237,7 @@ img.left, figure.left, div.figure.align-left {
 /* Main Nav */
 
 #banner nav {
-    background: #29423A;
+    background: #0055FF;
     font-family: 'Roboto', arial, serif;
     font-size: 1em;
     overflow: visible;
@@ -303,7 +303,7 @@ img.left, figure.left, div.figure.align-left {
 #banner nav a:active,
 #banner nav .active a:link,
 #banner nav .active a:visited {
-    background: #3D6456;
+    background: #578FFF;
     color: #fff;
     text-shadow: none !important;
 }
@@ -322,7 +322,7 @@ img.left, figure.left, div.figure.align-left {
 }
 
 #banner nav li.dropdown .dropdown-toggle:hover {
-    background: #3D6456;
+    background: #578FFF;
 }
 
 #banner nav li.dropdown ul.dropdown-menu {
@@ -330,7 +330,7 @@ img.left, figure.left, div.figure.align-left {
     position: absolute;
     top: 100%;
     left: 0;
-    background: #29423A;
+    background: #0055FF;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -338,7 +338,7 @@ img.left, figure.left, div.figure.align-left {
     z-index: 9999;
     border-radius: 0 0 5px 5px;
     border-style: solid;
-    border-color: #335348;
+    border-color: #487ce4;
 }
 
 #banner nav li.dropdown ul.dropdown-menu li {
@@ -359,7 +359,7 @@ img.left, figure.left, div.figure.align-left {
 }
 
 #banner nav li.dropdown ul.dropdown-menu a:hover {
-    background: #3D6456;
+    background: #578FFF;
 }
 
 #banner nav li.dropdown.open ul.dropdown-menu {
@@ -627,7 +627,7 @@ img.left, figure.left, div.figure.align-left {
 *****************/
 
 .footer {
-    background-color: #335348;
+    background-color: #487ce4;
     text-align: center;
     color: white;
     margin-top: auto;
