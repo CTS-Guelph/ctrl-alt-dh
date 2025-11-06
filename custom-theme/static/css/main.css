@@ -11,6 +11,7 @@
 /* Import Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Audiowide&effect=anaglyph&display=swap"); /* new import Nov, 2025 */
 
 /***** Global *****/
 /* Body */
@@ -42,8 +43,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     line-height: 1.1;
     margin-bottom: .8em;
-    font-family: 'Roboto', arial, serif;
+    font-family: 'Audiowide', arial, serif; /* 'Audiowide' was 'Roberto' */
 }
+
+/*h1:has(: Audiowide', arial, serif;) {} */
 
 h3, h4, h5, h6 { margin-top: .8em; }
 
@@ -196,8 +199,18 @@ img.left, figure.left, div.figure.align-left {
 *****************/
 #banner {
     margin: 0 auto;
-    padding: 0.8em 0 0 0;
-    background-color: #487ce4;
+    padding: 0.8em 0 0 0; 
+    background-color: #487ce4; /* this doesnt do much anymore */
+    background-image: url("/images/ctrl-new-banner-ideal.png");
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5em;
+    position: relative; /*apparently being fixed couldve fixed the nav bar (back to the original 
+                        strip below the banner) but it messed with the text below*/ 
 }
 
 	/* Banner */
@@ -208,7 +221,7 @@ img.left, figure.left, div.figure.align-left {
 }
 
 .site-logo img {
-    width: 30%;
+    width: 40%;
     margin-left: 12%;
 }
 
@@ -242,11 +255,14 @@ img.left, figure.left, div.figure.align-left {
     font-size: 1em;
     overflow: visible;
     line-height: 30px;
-    margin-top: auto;
-    padding: 0px;
+    margin-top: auto; 
+    padding: 0px; 
     text-align: center;
     border-radius: 5px;
     border-radius: 5px;
+    position: absolute;
+    bottom: 4%;
+    left: 13.5%; /* 8% works for lining up w/ the page below */
 }
 
 @media screen and (max-width: 896px) {
@@ -262,9 +278,12 @@ img.left, figure.left, div.figure.align-left {
 }
 
 #banner nav ul {
+    justify-content: space-between; /* new & could be 'centered' */
     list-style: none;
-    margin-left: 15%;
+    margin: 0; /* was margin-left: 15%; in 2024 but that really screws the nav now */
     max-width: 800px;
+    padding: 0; /* new, changes the height above the nav items*/
+    gap: 0em; /* new, changes the thickness of the nav between items */
 }
 
 @media screen and (max-width: 896px) {
@@ -555,6 +574,11 @@ img.left, figure.left, div.figure.align-left {
     p, h1, h2, h3, h4, h5 {
         padding: 0em 1em;
     }
+
+    h1:has(div.site-logo) {
+        padding: 0em; /* specifying that the site logo img doesn't have weird padding */
+    }
+
 }
 
 /*
@@ -761,3 +785,33 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 }
 
 #about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+                                                 
+ mmmmm  m    m   mmm            m    mmmm  mmmmm 
+   #    ##  ## m"   "           #   "   "# #     
+   #    # ## # #   mm                   m" """"mm
+   #    # "" # #    #                 m"        #
+ mm#mm  #    #  "mmm"               m#mmmm "mmm#"
+                                                 
+You don't see this Chelsea... */
