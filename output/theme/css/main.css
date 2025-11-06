@@ -201,7 +201,7 @@ img.left, figure.left, div.figure.align-left {
     margin: 0 auto;
     padding: 0.8em 0 0 0; 
     background-color: #487ce4; /* this doesnt do much anymore */
-    background-image: url("/images/ctrl-new-banner-ideal.png");
+    background-image: url("/../images/ctrl-new-banner-ideal.png");
     background-size: cover;
     background-position: center center;
     height: 300px;
@@ -360,6 +360,18 @@ img.left, figure.left, div.figure.align-left {
     border-color: #487ce4;
 }
 
+@media screen and (max-width: 896px) {
+    #banner nav a {
+        padding: none;
+    }
+    #banner nav li.dropdown .dropdown-toggle, #banner nav a {
+        padding: 0.75em 0.75em;
+    }
+    #banner nav {
+        left:auto;
+    }
+}
+
 #banner nav li.dropdown ul.dropdown-menu li {
     float: none;
     display: block;
@@ -376,6 +388,7 @@ img.left, figure.left, div.figure.align-left {
     line-height: 1.4em;    /* more comfortable spacing for multiple lines */
     height: auto;          /* remove fixed height from top-level nav items */
 }
+
 
 #banner nav li.dropdown ul.dropdown-menu a:hover {
     background: #578FFF;
