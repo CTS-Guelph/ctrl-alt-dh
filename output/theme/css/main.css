@@ -201,7 +201,7 @@ img.left, figure.left, div.figure.align-left {
     margin: 0 auto;
     padding: 0.8em 0 0 0; 
     background-color: #487ce4; /* this doesnt do much anymore */
-    background-image: url("/../images/ctrl-new-banner-ideal.png");
+    background-image: url("../../images/ctrl-new-banner-ideal.png");
     background-size: cover;
     background-position: center center;
     height: 300px;
