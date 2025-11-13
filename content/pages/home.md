@@ -23,7 +23,7 @@ As a multi-media publication powered by students in the CTS program, we welcome 
 |------------------|-------------|
 | **Project Managers** | Scott Bracey, Jack Hunter-Buffington |
 | **Copyediting** | Graeme Newark, Sara Jandrew, Charly Bernal |
-| **Issue Launch Event** | Jasmeen Bhuller, Leo Barker, Naseeb Bains, Ava Tramonte, Anthony Polsinelli-Glasgow |
+| **Issue Launch Event** | Jasmeen Bhuller, Leo Barker, Naseeb Bains, Ava Tramonte, Anthony Polsinelli-Glasgow, Diego Marin |
 | **Admin /<br />Communications** | Lily Beaulne, Lauren Curry, Charly Bernal |
 | **Editors /<br />Submissions** | Emily Scott, Shekhar Rana, Sara Jandrew |
 | **Graphic Design and Branding** | Melissa Tuniewicz, Iain Graham, Isabelle Viray, Anthony Polsinelli-Glasgow, Gabby Cole |
