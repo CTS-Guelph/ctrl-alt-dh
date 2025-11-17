@@ -45,6 +45,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', arial, serif;
 }
 
+/* idea for specific font for titles
+h1:has(: Audiowide', arial, serif;) {} */
+
 h3, h4, h5, h6 { margin-top: .8em; }
 
 hr { border: 2px solid #EEEEEE; }
@@ -195,28 +198,29 @@ img.left, figure.left, div.figure.align-left {
 	Header
 *****************/
 #banner {
-    margin: 0 auto;
-    padding: 0.8em 0 0 0;
-    background-color: #487ce4;
-}
+    /*margin: 0 auto; */
+    width: 100dvw; /* new */
+    margin-left: calc(-50vw + 50%); /* recenters full-width element if page is centered */
+    padding: 0.8em 0 0 0; 
+    background-color: #487ce4; /* this doesnt do much anymore */
+    background-image: url("../../images/ctrl-new-banner-ideal.png");
+    background-size: cover;
+    background-position: center top; /* was center center */
+    background-repeat: no-repeat; /* new */
+    overflow: visible; /* new */
+    height: 300px;
+    /*display: flex; */
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.5em;
+    position: relative; 
+} 
 
 	/* Banner */
 #banner h1 {
     font-size: 3.571em;
     line-height: 1.0;
     margin-bottom: .3em;
-}
-
-.site-logo img {
-    width: 30%;
-    margin-left: 12%;
-}
-
-@media screen and (max-width: 896px) {
-    .site-logo img {
-        width: 80%;
-        margin-left: 10%;
-    }
 }
 
 #banner h1 a:link, #banner h1 a:visited {
@@ -233,7 +237,6 @@ img.left, figure.left, div.figure.align-left {
 
 #banner h1 strong {font-size: 0.36em; font-weight: normal;}
 
-
 /* Main Nav */
 
 #banner nav {
@@ -247,6 +250,9 @@ img.left, figure.left, div.figure.align-left {
     text-align: center;
     border-radius: 5px;
     border-radius: 5px;
+    position: absolute;
+    bottom: 4%;
+    left: 8%; /* 8% works well for lining up w/ the page below */
 }
 
 @media screen and (max-width: 896px) {
@@ -671,13 +677,6 @@ img.left, figure.left, div.figure.align-left {
     }
 }
 
-/*
-.site-info:first-child {
-    margin-right: 5em;
-}
-
-*/
-
 
 /***** Sections *****/
 /* Blog */
@@ -761,3 +760,129 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 }
 
 #about-author .photo {border: 1px solid #ddd; float: left; margin: 5px 1em 0 0;}
+
+
+/* @@@@@ Container for the two images @@@@@ */
+.site-logo {
+    display: flex;
+    align-items: center;
+    gap: 150px;                /* space between images */
+    margin-bottom: 20px;      /* space below images (above the nav bar) */
+}
+
+#banner .site-logo a {
+    display: inline-block !important;
+    width: auto !important;
+    height: auto !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#banner .site-logo img {
+    display: block !important;   /* removes tiny bottom gap */
+    width: auto !important;      /* prevents img from becoming 100% width */
+    height: auto !important;
+}
+
+.main-logos {
+    height: auto;
+}
+
+/* @@@@ Styling for individual images @@@@*/
+/* Wrapper */
+.ani-logo-wrapper {
+    position: relative;
+    width: 40%; 
+    max-width: 400px; 
+    display: inline-block; 
+    /*position: relative;
+    height: 110px !important; 
+    width: auto;
+    display: inline-block; */
+}
+
+/* Static image: defines container size */
+.ani-logo.still {
+    width: 100%;
+    display: block;
+    position: relative;
+    /*height: 100%;
+    width: auto;
+    display: block;
+    position: relative; */  /* keeps element height valid */
+}
+
+/* GIF: sits on top */
+.ani-logo.gif {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    /*height: 100%;
+    width: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0; */
+}
+
+/* Swap on hover */
+.ani-logo-wrapper:hover .gif {
+    opacity: 1;
+}
+
+.ani-logo-wrapper:hover .still {
+    opacity: 0;
+}
+
+/* Mobile: hide entire animated icon */
+@media screen and (max-width: 896px) {
+    .ani-logo-wrapper {
+        display: none;
+    }
+}
+
+
+.text-logo { 
+    width: 30%;
+    margin-left: 0; /* was 12% */
+    max-width: 500px; /* prevents them from getting too big */
+}
+
+@media screen and (max-width: 896px) {
+    .text-logo { 
+        width: 80%;
+        margin-left: 10%;
+    }
+} /* end of style for individual images*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+                                                 
+ mmmmm  m    m   mmm            m    mmmm  mmmmm 
+   #    ##  ## m"   "           #   "   "# #     
+   #    # ## # #   mm                   m" """"mm
+   #    # "" # #    #                 m"        #
+ mm#mm  #    #  "mmm"               m#mmmm "mmm#"
+                                                 
+You don't see this Chelsea... */

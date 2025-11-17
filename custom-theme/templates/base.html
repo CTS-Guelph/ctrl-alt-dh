@@ -40,7 +40,6 @@
                     });
                 });
         </script>
-                
 
         <body id="index" class="home">
                 {% include 'github.html' %}
@@ -48,7 +47,27 @@
                         <h1>
 
                                 <div class="site-logo">
-                                        <a href="{{ SITEURL }}/"><img src="{{ SITEURL }}/images/ctrl-logo.png" alt="{{ SITENAME }}" /></a>
+                                        <a href="{{ SITEURL }}/">
+                                                <img src="{{ SITEURL }}/images/ctrl-logo.png"
+                                                alt="{{ SITENAME }}"
+                                                class = "main-logos text-logo" />
+                                        </a>
+                                        <a href="{{ SITEURL }}/">
+                                                <div class="ani-logo-wrapper">
+                                                        <img src="{{ SITEURL }}/images/animated-logo-static.png"
+                                                        alt="{{ SITENAME }} Static"
+                                                        class="ani-logo still">
+                                                        <img src="{{ SITEURL }}/images/animated-logo.gif"
+                                                        alt="{{ SITENAME }} Animation"
+                                                        class="ani-logo gif">
+                                                </div>
+                                        </a>
+                                        <!--<a href="{{ SITEURL }}/">
+                                                <img src="{{ SITEURL }}/images/animated-logo-static.png"
+                                                alt="{{ SITENAME }} Animation"
+                                                data-gif="{{ SITEURL }}/images/animated-logo.gif"
+                                                class = "main-logos ani-logo" />
+                                        </a> -->
                                 </div>
                         </h1>
 
