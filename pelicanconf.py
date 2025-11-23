@@ -59,7 +59,8 @@ MENUITEMS = [
     ('Issues', [
         ('Issue 0', '/issue-0.html'),
         ('Issue 1: Creating CTRL-ALT-DH', '/issue-1.html'),
-        ('Issue 2: Digital Dilemmas', '/issue-2.html')
+        ('Issue 2: Digital Dilemmas', '/issue-2.html'),
+		('Issue 3: A Byte of Creativity', '/issue-3.html')
     ]),
     ('Submissions', [
         ('Guidelines', '/guidelines.html'),
