@@ -12,17 +12,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Audiowide&effect=anaglyph&display=swap"); /* new import Nov, 2025 */
-
+@import url("https://fonts.googleapis.com/css2?family=Science+Gothic:wdth,wght,CTRS@88.2,300,26&display=swap");/* new import Nov, 2025 */
 /***** Global *****/
 /* Body */
 body {
     background: #F5F4EF;
     color: black;
     font-size: 125%; /* base font is 16px */
-    font-family: "Libertinus Serif", Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: "Science Gothic", Georgia, Cambria, "Times New Roman", Times, serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
+    font-variation-settings:
+    "slnt" 0,
+    "wdth" 88.2,
+    "CTRS" 26;
     text-align: left;
     display: flex;
     flex-direction: column;
@@ -100,6 +104,31 @@ max-width: 75%;
 margin: 1em;
 margin-bottom: 2em;
 }
+
+/* easter egg */
+
+.konami-dark {
+    background: #000 !important;
+    color: #78a1df!important;
+    transition: background 0.6s ease, color 0.6s ease;
+    filter: invert(1) hue-rotate(180deg);
+}
+
+.glitch * {
+    animation: glitch 0.3s infinite;
+}
+
+@keyframes glitch {
+    0% { transform: translate(0); }
+    20% { transform: translate(-1px, 1px); }
+    40% { transform: translate(1px, -1px); }
+    60% { transform: translate(-2px, 2px); }
+    80% { transform: translate(2px, -2px); }
+    100% { transform: translate(0); }
+}
+
+/* easter egg */
+
 
 @media screen and (max-width: 896px) {
     .post-info, .bio, .citation {max-width: 100%}
