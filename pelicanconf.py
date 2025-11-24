@@ -50,6 +50,14 @@ TAGS_SAVE_AS = 'tags.html'          # The tags index page URL
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
+# Include static files like favicon
+STATIC_PATHS = ['../custom-theme/static']
+
+EXTRA_PATH_METADATA = {
+    '../custom-theme/static/favicon.ico': {'path': 'favicon.ico'},
+    '../custom-theme/static/favicon-32x32.png': {'path': 'favicon-32x32.png'},
+    '../custom-theme/static/favicon-16x16.png': {'path': 'favicon-16x16.png'},
+}
 # Menu
 
 DISPLAY_PAGES_ON_MENU = False

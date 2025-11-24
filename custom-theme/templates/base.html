@@ -6,6 +6,9 @@
                         <meta name="google-site-verification" content="6o2UjpBN6LCbb4FA_awCVe436mF74c5ojLVJM4aytMU" />
                         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                         <meta name="generator" content="Pelican" />
+                        <link rel="icon" href="{{ SITEURL }}/favicon.ico" type="image/x-icon">
+                        <link rel="icon" type="image/png" sizes="32x32" href="{{ SITEURL }}/favicon-32x32.png">
+                        <link rel="icon" type="image/png" sizes="16x16" href="{{ SITEURL }}/favicon-16x16.png">
                         <title>{% block title %}{{ SITENAME|striptags }}{%endblock%}</title>
                         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
                         {% if FEED_ALL_ATOM %}
@@ -39,6 +42,33 @@
                         document.querySelectorAll('#banner nav li.dropdown').forEach(li => li.classList.remove('open'));
                     });
                 });
+
+                ///*ctrl+alt+d+h easter egg*///
+
+                let sequence = [];
+                const target = ["Control", "Alt", "d", "h"];
+
+                document.addEventListener("keydown", (e) => {
+                 let key = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+
+                 sequence.push(key);
+
+                 if (sequence.length > 4) {
+                        sequence.shift();
+                 }
+
+                 if (sequence.join(",") === target.join(",")) {
+                        console.log("Secret combo activated!");
+                        activateEasterEgg(); 
+                        sequence = [];
+                 }
+                });
+
+                function activateEasterEgg() {
+                        document.body.classList.toggle("konami-dark");
+                        document.body.classList.toggle("glitch");
+                }
+               
         </script>
 
         <body id="index" class="home">
