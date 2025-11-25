@@ -9,4 +9,6 @@ Bio:
 Abstract: 
 ---
 
+![Corset Submission Cover]({static}/images/issue3-images/subCoverArt-SarahJ.webp)
+
 ## Coming soon!

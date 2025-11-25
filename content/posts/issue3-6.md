@@ -9,6 +9,8 @@ Bio: Iain Graham is a undergraduate student majoring in Culture and Technology S
 Abstract: Launched in 2020, BTE brings together amateur and experienced builders who use real-world data, personal memories, and local knowledge to rebuild the world block by block. In doing so, the project becomes a form of digital storytelling; a way for people to document their surroundings, histories, and cultures through interactive, community-driven design. While BTE’s scope is impressive, the project is not without its challenges—its fragmented team structure can make collaboration difficult, onboarding is far from intuitive, and its reliance on volunteer builders raises questions about sustainability. Even so, BTE offers a fascinating look at how virtual spaces can hold human stories, making it a unique and ambitious attempt to archive the world through play.
 ---
 
+![Block Earth Submission Cover]({static}/images/issue3-images/subCoverArt-IainG.webp)
+
 # Brick by Virtual Brick: Exploring BuildTheEarth
 
 ### Unsurprisingly, most of the world knows Minecraft—but what may surprise you is that the reverse is becoming true. The Earth itself is being steadily reconstructed in a single Minecraft world, with every city, coastline, and mountain rebuilt into a unified digital planet.

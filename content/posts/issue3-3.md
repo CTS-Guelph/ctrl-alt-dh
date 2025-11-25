@@ -9,4 +9,6 @@ Bio:
 Abstract:  
 ---
 
+![Frank V AI Submission Cover]({static}/images/issue3-images/subCoverArt-MaxL.webp)
+
 ## Coming soon!

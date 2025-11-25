@@ -22,11 +22,23 @@ Category: issues
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-3.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-MaxL.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-3.md">AI: The Thing that Frankenstein Warned Us Of</a></h3>
 <p>Maximilienne Lalonde</p>
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-4.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-MelissaT.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-4.md">Paws and Hearts: A Static Website Showcasing the Mental Health and Wellness Benefits of Pet Ownership</a></h3>
 <p>Melissa Tuniewicz</p>
 </div>
@@ -37,6 +49,12 @@ Category: issues
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-6.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-IainG.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-6.md">Brick by Virtual Brick: Exploring BuildTheEarth</a></h3>
 <p>Iain Graham</p>
 </div>
@@ -57,6 +75,12 @@ Category: issues
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-10.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-SarahJ.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-10.md">The Anatomy of a Corset</a></h3>
 <p>Sara Jandrew</p>
 </div>

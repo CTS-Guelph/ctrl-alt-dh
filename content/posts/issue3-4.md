@@ -9,4 +9,6 @@ Bio:
 Abstract: 
 ---
 
+![Cat Hug Submission Cover]({static}/images/issue3-images/subCoverArt-MelissaT.webp)
+
 ## Coming soon!
