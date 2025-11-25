@@ -34,16 +34,6 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-# Include static files like favicon
-STATIC_PATHS = ['static']
-
-# Make sure they’re copied to the root of the output
-EXTRA_PATH_METADATA = {
-    'static/favicon.ico': {'path': 'favicon.ico'},
-    'static/favicon-32x32.png': {'path': 'favicon-32x32.png'},
-    'static/favicon-16x16.png': {'path': 'favicon-16x16.png'},
-}
-
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
