@@ -11,7 +11,7 @@
 /* Import Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url("https://fonts.googleapis.com/css?family=Audiowide&effect=anaglyph&display=swap"); /* new import Nov, 2025 */
 /***** Global *****/
 /* Body */
 body {
@@ -22,10 +22,12 @@ body {
     line-height: 1.429;
     margin: 0;
     padding: 0;
+/*
     text-align: left;
     display: flex;
     flex-direction: column;
     align-items: center;
+*/
     min-height: 100vh;
     overflow-wrap: break-word; /* stops long words e.g. URLS from getting cut off */
 }
@@ -42,7 +44,8 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     line-height: 1.1;
     margin-bottom: .8em;
-    font-family: 'Roboto', arial, serif;
+    /*font-family: 'Roboto', arial, serif; */
+    font-family: 'Audiowide', arial, serif; /* 'Audiowide' was 'Roberto' */
 }
 
 
@@ -199,21 +202,21 @@ img.left, figure.left, div.figure.align-left {
 	Header
 *****************/
 #banner {
-    width: 100dvw; /* new */
-    margin-left: calc(-50vw + 50%); /* recenters full-width element if page is centered */
-    padding: 0.8em 0 0 0; 
+    margin: 0;
+    padding: 0.8em 8% 0; 
     background-color: #487ce4; /* this doesnt do much anymore */
     background-image: url("../../images/ctrl-new-banner-ideal.png");
     background-size: cover;
-    background-position: center top; /* was center center */
-    background-repeat: no-repeat; /* new */
-    overflow: visible; /* new */
+    background-position: center top; 
     height: 300px;
-    /*display: flex; */
-    align-items: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     justify-content: center;
-    padding: 0 1.5em;
-    position: relative; 
+    /*padding: 0 1.5em; */
+    position: relative; /*apparently being fixed couldve fixed the nav bar (back to the original 
+                        strip below the banner) but it messed with the text below*/
 } 
 
 	/* Banner */
@@ -243,16 +246,16 @@ img.left, figure.left, div.figure.align-left {
     background: #0055FF;
     font-family: 'Roboto', arial, serif;
     font-size: 1em;
-    overflow: visible;
     line-height: 30px;
-    margin-top: auto;
-    padding: 0px;
-    text-align: center;
+    margin-top: 0.5rem;
+    padding: 0;
+    text-align: left;
     border-radius: 5px;
-    border-radius: 5px;
-    position: absolute;
+    position: static;
+
+    /*
     bottom: 4%;
-    left: 8%; /* 8% works well for lining up w/ the page below */
+    left: 8%; *//* 8% works well for lining up w/ the page below */
 }
 
 @media screen and (max-width: 896px) {
@@ -347,6 +350,19 @@ img.left, figure.left, div.figure.align-left {
     border-radius: 0 0 5px 5px;
     border-style: solid;
     border-color: #487ce4;
+}
+
+@media screen and (max-width: 896px) {
+    #banner nav a {
+        padding: none;
+    }
+    #banner nav li.dropdown .dropdown-toggle, #banner nav a {
+        padding: 0.75em 0.75em;
+    }
+    #banner nav {
+        left:auto;
+        margin-bottom: 1em;
+    }
 }
 
 #banner nav li.dropdown ul.dropdown-menu li {
@@ -555,15 +571,44 @@ img.left, figure.left, div.figure.align-left {
 }
 
 @media screen and (max-width: 896px) {
-    #content {
+    #banner,
+    #featured,
+    #content,
+    #extras,
+    #about,
+    .contentinfo {
         margin: 0em;
         max-width: 100%;
+        width: 100%;
         padding: 0em;
     }
     p, h1, h2, h3, h4, h5 {
         padding: 0em 1em;
     }
 }
+
+@media screen and (max-width: 896px) {
+
+    html, body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+
+    .body {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .footer {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+}
+
 
 /*
 	Extras
@@ -768,9 +813,7 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
 #banner .site-logo {
     display: flex;
     align-items: center;
-    gap: 150px; /* space between images */
-    margin-bottom: 20px; /*space between nav bar and logos (or at least it should be ;-; )*/
-    width: auto;
+    gap: 0.5em; /* space between images */
 }
 
 #banner .site-logo a {
@@ -781,14 +824,25 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
     margin: 0 !important;
 }
 
+@media screen and (max-width: 896px) {
+    #banner .site-logo {
+        display: flex;
+        justify-content: center; /* center horizontally */
+        align-items: center;
+        width: 100%; /* make its container full-width */
+        gap: 0; /* remove the large desktop gap */
+        margin: 0 auto; /* ensure centering */
+    }
+}
+
+
 /* @@@@ Styling for individual images @@@@*/
 /* Wrapper */
 .ani-logo-wrapper {
     position: relative;
-    max-height: 120px !important; 
-    height: auto;
+    width: 200px;
+    height: 120px;
     display: inline-block; 
-    max-width: 200px;
 }
 
 /* Static image: defines container size */
@@ -834,14 +888,16 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
         justify-content: center;
         align-items: center;
         position: relative;
+        height: fit-content;
     }
     .ani-logo-wrapper { /* hide entire animated icon */
-        display: none;
+        display: none !important;
     }
     .text-logo { 
-        width: auto;
         max-width: 300px;
-        margin-left: 12%;
+        width: auto;
+        margin: 0 auto;
+        display: block;
     }
 } /* end of style for individual images*/
 
