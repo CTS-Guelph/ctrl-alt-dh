@@ -44,6 +44,12 @@ Category: issues
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-5.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-JackHB.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-5.md">Bike.inc</a></h3>
 <p>Jack Hunter-Buffington</p>
 </div>
@@ -83,4 +89,15 @@ Category: issues
 </a>
 <h3><a href="{filename}/posts/issue3-10.md">The Anatomy of a Corset</a></h3>
 <p>Sara Jandrew</p>
+</div>
+
+<div class="article">
+<a href="{filename}/posts/issue3-11.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-Jasmeen.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
+<h3><a href="{filename}/posts/issue3-11.md">Overconsumption</a></h3>
+<p>Jasmeen Bhuller</p>
 </div>

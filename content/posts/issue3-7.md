@@ -2,8 +2,7 @@
 title: "Jesus’s Easter Story: From Darkness to Light"
 subtitle: "A Reflection on AI Collaboration in Religious Storytelling"
 author: "Lauren Curry"
-journal: "CTRL+ALT+DH"
-issue: "A Byte of Creativity, Issue 3.0"
+issue: Issue 3
 date: 2025-10-15
 author_bio: >
   Lauren Curry is a fourth-year Culture & Technology Studies student at the University of Guelph, with a minor in English. 
@@ -22,52 +21,6 @@ tags:
   - Religious Education
   - Ethics of AI
   - Human-AI Collaboration
----
----
-Title: "Jesus' Easter Story: From Darkness to Light"
-Date: 2025-11-19 10:20
-Issue: Issue 3
-Citation: 
-Tags: 
-Authors: Lauren Curry
-Bio: 
-Abstract: 
----
-<!-- ^ added YAML fontmatter and author bio-->
-
-<br>
-
-
-<div align="center">
-
-# "Jesus’s Easter Story: From Darkness to Light"
-## A Reflection on AI Collaboration in Religious Storytelling</h3>
-<br>
-
-**Author:** Lauren Curry
-
-**Journal:** CTRL+ALT+DH
-
-**Issue:** A Byte of Creativity, Issue 3.0
-
-**Date:** October 15, 2025
-
-</div>
-
-___
-
-**Abstract** This project examines the use of AI as a creative collaborator in the process of creating a children’s book focusing on the Easter story. In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, and ethical facets of using AI in a religious context, outlining the value of technological aid and the signifying the need for human oversight, empathy, and understanding of culture.
-
-<br>
-
-**Citation:**
-Curry, Lauren. "Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling." CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025.
-
-<br>
-
-**Tags:** 
-*AI and Creativity*  ·  *Digital Storytelling*  ·  *Children's Literature*  ·  *Religious Education*  ·  *Ethics of AI* ·  *Human-AI Collaboration*
-
 ---
 
 <br>
@@ -431,7 +384,7 @@ There are many ethical considerations that arose during this project. One thing 
 
 
 <!-- added some acedemic theory from the course that I was drawing on -->
-### **Reference List**
+Reference List
 </div>
 
 Cavalcante Siebert, L., Lupetti, M.L., Aizenberg, E. et al. Meaningful human control: actionable properties for AI system development. AI Ethics 3, 241–255 (2023). https://doi.org/10.1007/s43681-022-00167-3
@@ -447,7 +400,7 @@ Rai, P., Gupta, K., Gabralla, L.A. et al. A royalty framework for copyright prot
 
 <div align="center">
 	
-### Read More
+Read More
 </div>
 
 Corpuz, J. C. G. (2025). Faith and Artificial Intelligence (AI) in Catholic Education: A Theological Virtue Ethics Perspective. Religions, 16(8), 1083. https://doi.org/10.3390/rel16081083
