@@ -71,6 +71,12 @@ Category: issues
 </div>
 
 <div class="article">
+<a href="{filename}/posts/issue3-8.md">
+	<img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-Shekhar.webp"
+		alt="Cover art" 
+		style="width: 25%;"/>
+</a>
 <h3><a href="{filename}/posts/issue3-8.md">Mapping Belonging: An Intersectional Critique of Islands in the North </a></h3>
 <p>Shekhar Rana</p>
 </div>
@@ -100,4 +106,14 @@ Category: issues
 </a>
 <h3><a href="{filename}/posts/issue3-11.md">Overconsumption</a></h3>
 <p>Jasmeen Bhuller</p>
+</div>
+
+<div class="article">
+<h3><a href="{filename}/posts/issue3-12.md">Soft Internet Theory</a></h3>
+<p>Adrian Morra, Tristan Sauer</p>
+</div>
+
+<div class="article">
+<h3><a href="{filename}/posts/issue3-13.md">[insert name here]</a></h3>
+<p>[insert author here]</p>
 </div>

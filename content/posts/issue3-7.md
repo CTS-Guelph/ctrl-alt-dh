@@ -82,7 +82,7 @@ tags:
 Let's start with creating an image for the front of the book. Create an interesting and inviting image of Jesus and the story of Easter. It shouldn't show any graphic images as it is for children. It should have the title of the story in big bold letters that have a fun font.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands among smiling children in a green field with flowers and trees. The background includes houses, a rainbow, and a smiling sun." src="https://github.com/user-attachments/assets/3a775478-f74c-4837-a414-adbac60da8b4" />
+<img width="350" height="350" alt="Jesus stands among smiling children in a green field with flowers and trees. The background includes houses, a rainbow, and a smiling sun." src="{static}/images/issue3-images/jesus1.webp" />
 <br>
 *Copilot* 
 
@@ -90,7 +90,7 @@ Let's start with creating an image for the front of the book. Create an interest
 This is ok but make sure the title says "Jesus's Easter Story From Darkness to Light."  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands under a stone archway, surrounded by joyful children. The background includes green hills, birds, butterflies, and a bright sun." src="https://github.com/user-attachments/assets/11b5a255-7794-49ae-9f80-aae469d9a4e7" />
+<img width="350" height="350" alt="Jesus stands under a stone archway, surrounded by joyful children. The background includes green hills, birds, butterflies, and a bright sun." src="{static}/images/issue3-images/jesus2.webp" />
 <br>
 *Copilot*
 
@@ -98,7 +98,7 @@ This is ok but make sure the title says "Jesus's Easter Story From Darkness to L
 Can you include Jesus's disciples in it?  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus sits with arms open, surrounded by children and adults. The background features Easter eggs, flowers, a dove, and a shining sun." src="https://github.com/user-attachments/assets/6acdfba6-6df4-442e-bb33-c87c45737a77" />
+<img width="350" height="350" alt="Jesus sits with arms open, surrounded by children and adults. The background features Easter eggs, flowers, a dove, and a shining sun." src="{static}/images/issue3-images/jesus3.webp" />
 <br>
 *Copilot*
 
@@ -106,7 +106,7 @@ Can you include Jesus's disciples in it?
 This looks pretty good but a little less busy.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands among smiling children and adults. Behind him are three crosses, an empty tomb, doves, lambs, and a sunrise." src="https://github.com/user-attachments/assets/f1262254-b4c6-460c-8e95-684bdb63c72b" />
+<img width="350" height="350" alt="Jesus stands among smiling children and adults. Behind him are three crosses, an empty tomb, doves, lambs, and a sunrise." src="{static}/images/issue3-images/jesus4.webp" />
 <br>
 *Copilot*
 
@@ -114,7 +114,7 @@ This looks pretty good but a little less busy.
 This looks great. Keep this image but make sure the title reads "Jesus's Easter Story From Darkness to Light."  
 
 **Copilot said:**  
-<img width="350" height="350" alt="esus stands in front of a church, surrounded by reverent people. The background includes a cross, blooming flowers, birds, and Easter eggs under a bright sun." src="https://github.com/user-attachments/assets/e4811d20-7927-47e9-8b28-6788ab97c4fd" />
+<img width="350" height="350" alt="esus stands in front of a church, surrounded by reverent people. The background includes a cross, blooming flowers, birds, and Easter eggs under a bright sun." src="{static}/images/issue3-images/jesus5.webp" />
 <br>
 *Copilot*
 
@@ -129,7 +129,7 @@ It is still spelled incorrectly but I guess we will go with it.
 Can you create an image for chapter 1 that is engaging for kids but also relates to the content of the chapter?  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus rides a donkey through a joyful crowd waving palm branches. He wears a white robe, red cloak, and crown of leaves, with a glowing halo. The background features stone buildings and a cityscape." src="https://github.com/user-attachments/assets/f65cf129-495b-45cb-9b11-c209aefad86a" />
+<img width="350" height="350" alt="Jesus rides a donkey through a joyful crowd waving palm branches. He wears a white robe, red cloak, and crown of leaves, with a glowing halo. The background features stone buildings and a cityscape." src="{static}/images/issue3-images/jesus6.webp" />
 <br>
 *Copilot*
 
@@ -144,7 +144,7 @@ That's great.
 Now create an image for chapter 2 that is engaging for kids but also relates to the content of the chapter.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus sits at the center of a long table with twelve disciples, sharing bread and wine in a room with arched windows and green shutters." src="https://github.com/user-attachments/assets/61f3f51a-96e2-4c5e-9407-f73e891fac41" />
+<img width="350" height="350" alt="Jesus sits at the center of a long table with twelve disciples, sharing bread and wine in a room with arched windows and green shutters." src="{static}/images/issue3-images/jesus7.webp" />
 <br>
 *Copilot*
 
@@ -152,7 +152,7 @@ Now create an image for chapter 2 that is engaging for kids but also relates to 
 That's ok but they wouldn't have electricity during this time. Can you remove the light fixture at the top of the image?  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus holds a cup at a rustic wooden table surrounded by disciples. The table includes bread, eggs, and wine in a warmly lit stone room." src="https://github.com/user-attachments/assets/ccfa7b17-145d-482b-b70b-ef02371ab998" />
+<img width="350" height="350" alt="Jesus holds a cup at a rustic wooden table surrounded by disciples. The table includes bread, eggs, and wine in a warmly lit stone room." src="{static}/images/issue3-images/jesus8.webp" />
 <br>
 *Copilot*
 
@@ -160,7 +160,7 @@ That's ok but they wouldn't have electricity during this time. Can you remove th
 Make it more engaging for children.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus blesses bread at a long table with twelve disciples in a stone-walled room. The table is set with bread, wine, and bowls of food." src="https://github.com/user-attachments/assets/1b3a7dfc-333d-452f-abe4-f9e907539444" />
+<img width="350" height="350" alt="Jesus blesses bread at a long table with twelve disciples in a stone-walled room. The table is set with bread, wine, and bowls of food." src="{static}/images/issue3-images/jesus9.webp" />
 <br>
 *Copilot*
 
@@ -177,7 +177,7 @@ I understand. I'm glad you found the first one useful! If you need any more help
 Create an image for chapter 3 that is engaging for kids but also relates to the content of the chapter.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus, in white robes and a green shawl, stands among disciples and Roman soldiers holding torches. The scene is set at night under a full moon with tall trees and mountains." src="https://github.com/user-attachments/assets/5fa4aa02-18d1-4466-9942-61ceaadf4853" />
+<img width="350" height="350" alt="Jesus, in white robes and a green shawl, stands among disciples and Roman soldiers holding torches. The scene is set at night under a full moon with tall trees and mountains." src="{static}/images/issue3-images/jesus10.webp" />
 <br>
 *Copilot*
 
@@ -185,7 +185,7 @@ Create an image for chapter 3 that is engaging for kids but also relates to the 
 The image should show Jesus alone.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands alone in a moonlit garden, wearing a white robe and brown sash. He clasps his hands gently, surrounded by cypress trees and a stone path under a starry sky." src="https://github.com/user-attachments/assets/bee1c992-fb6d-47fd-be3e-990c0cef9e84" />
+<img width="350" height="350" alt="Jesus stands alone in a moonlit garden, wearing a white robe and brown sash. He clasps his hands gently, surrounded by cypress trees and a stone path under a starry sky." src="{static}/images/issue3-images/jesus11.webp" />
 <br>
 *Copilot*
 
@@ -197,7 +197,7 @@ The image should show Jesus alone.
 Make an image that depicts chapter 4 and is engaging for children.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands calmly with arms crossed, wearing a white robe with a purple and gold sash. A large crowd watches with emotional expressions under a bright sky with palm trees and domed buildings." src="https://github.com/user-attachments/assets/99943949-d1e2-43dd-b9a6-5ba77c1c12e9" />
+<img width="350" height="350" alt="Jesus stands calmly with arms crossed, wearing a white robe with a purple and gold sash. A large crowd watches with emotional expressions under a bright sky with palm trees and domed buildings." src="{static}/images/issue3-images/jesus12.webp" />
 <br>
 *Copilot*
 
@@ -205,7 +205,7 @@ Make an image that depicts chapter 4 and is engaging for children.
 Jesus should look very sad.  
 
 **Copilot said:**  
-<img width="350" height="350" alt=" A sorrowful Jesus in a blue sash stands before a solemn crowd and leafy trees." src="https://github.com/user-attachments/assets/ea3844d5-04d1-4cec-82b2-6ef5d3fddcac" />
+<img width="350" height="350" alt=" A sorrowful Jesus in a blue sash stands before a solemn crowd and leafy trees." src="{static}/images/issue3-images/jesus13.webp" />
 <br>
 *Copilot*
 
@@ -213,7 +213,7 @@ Jesus should look very sad.
 These aren't really representing the chapter. Maybe just create an image that shows Jesus carrying his own cross on his back that is appropriate for children.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus, with a halo and golden sash, carries a large wooden cross through a crowd in a sunny landscape with green hills and a bright sky." src="https://github.com/user-attachments/assets/0716e2b5-3acf-4345-ad88-f2dd74fb9189" />
+<img width="350" height="350" alt="Jesus, with a halo and golden sash, carries a large wooden cross through a crowd in a sunny landscape with green hills and a bright sky." src="{static}/images/issue3-images/jesus14.webp" />
 <br>
 *Copilot*
 
@@ -225,7 +225,7 @@ These aren't really representing the chapter. Maybe just create an image that sh
 Create an image for chapter 5 that shows the premise of the chapter and is engaging for children.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus emerges from a stone tomb with radiant light behind him, arms raised. Angels hover above, and children and adults watch in awe. Flowers and a basket sit near the tomb." src="https://github.com/user-attachments/assets/ec13734e-06bd-4b02-8a4f-c24feada02ac" />
+<img width="350" height="350" alt="Jesus emerges from a stone tomb with radiant light behind him, arms raised. Angels hover above, and children and adults watch in awe. Flowers and a basket sit near the tomb." src="{static}/images/issue3-images/jesus15.webp" />
 <br>
 *Copilot*
 
@@ -233,7 +233,7 @@ Create an image for chapter 5 that shows the premise of the chapter and is engag
 Less theatrical.  
 
 **Copilot said:**  
-<img width="350" height="350" alt="Jesus stands in front of an open tomb, surrounded by smiling children. Light radiates from his head, and the background features a sunny sky and green hills." src="https://github.com/user-attachments/assets/2e87109e-9b26-480c-b912-b2143d35019f" />
+<img width="350" height="350" alt="Jesus stands in front of an open tomb, surrounded by smiling children. Light radiates from his head, and the background features a sunny sky and green hills." src="{static}/images/issue3-images/jesus16.webp" />
 <br>
 *Copilot*
 
@@ -246,7 +246,7 @@ Less theatrical.
 ## *Final Creation*
 ### 📚 A Children’s Tale Inspired by a Beloved Christian Story
 <p align="center">
-<img width="650" height="650" alt="An illustration of Jesus with a glowing halo, dressed in white and yellow robes, surrounded by children and adults. In the background are crosses on a hill, an open tomb, and a sunrise, symbolizing resurrection. White doves and flowers enhance the celebratory Easter theme." src="https://github.com/user-attachments/assets/82f1a699-e18d-437e-bb8e-363fdfa4754e" >
+<img width="650" height="650" alt="An illustration of Jesus with a glowing halo, dressed in white and yellow robes, surrounded by children and adults. In the background are crosses on a hill, an open tomb, and a sunrise, symbolizing resurrection. White doves and flowers enhance the celebratory Easter theme." src="{static}/images/issue3-images/jesus4.webp" >
 <br>
 <em>Cover Image: Jesus's Easter Story</em>
 </p>
@@ -258,7 +258,7 @@ Less theatrical.
 This was the beginning of a very important week in Jesus’s life.
 
 <p align="center">
-<img width="650" height="650" alt="An illustration of Jesus riding a donkey, wearing white robes, a red cloak, and a crown of leaves. He is greeted by a joyful crowd holding palm branches. The background shows a cityscape with stone buildings and a blue sky, symbolizing his entry into Jerusalem." src="https://github.com/user-attachments/assets/e7ff0bfd-3bfa-4233-9b09-4e21075feb8a" > 
+<img width="650" height="650" alt="An illustration of Jesus riding a donkey, wearing white robes, a red cloak, and a crown of leaves. He is greeted by a joyful crowd holding palm branches. The background shows a cityscape with stone buildings and a blue sky, symbolizing his entry into Jerusalem." src="{static}/images/issue3-images/jesus6.webp" > 
 <br>	
 <em>Chapter 1 Image.</em>
 </p>
@@ -270,7 +270,7 @@ This was the beginning of a very important week in Jesus’s life.
   Jesus had a special meal with his twelve disciples, called the Last Supper. He shared bread and wine with them and explained that these were symbols of his body and blood. 
 
 <p align="center">
-<img width="650" height="650" alt="An illistration of the Last Supper with Jesus at the center of a long table, wearing a white robe and golden sash. Twelve figures surround him in colorful robes. The table holds bread, wine, and a jug, set in a room with arched windows and green shutters." src="https://github.com/user-attachments/assets/3c70213f-09b8-4072-9506-ae25f81ea377" >
+<img width="650" height="650" alt="An illistration of the Last Supper with Jesus at the center of a long table, wearing a white robe and golden sash. Twelve figures surround him in colorful robes. The table holds bread, wine, and a jug, set in a room with arched windows and green shutters." src="{static}/images/issue3-images/jesus7.webp" >
 <br>
 <em>Chapter 2 Image.</em>
 </p>
@@ -284,7 +284,7 @@ This was the beginning of a very important week in Jesus’s life.
   After the Last Supper, Jesus went to a garden called Gethsemane to pray. He was very sad because he knew what was going to happen. Jesus prayed to God, asking if there was any way to avoid the suffering he was about to face, but he accepted God's plan.
 
 <p align="center">
-  <img width="650" height="650" alt="An illitration of a garden scene at night with Jesus alone in a white robe and brown sash standing on a stone path. The background features a full moon, starry sky, and tall cypress trees." src="https://github.com/user-attachments/assets/c4357f60-bc83-4677-be0d-4d62d0839dd6" >
+  <img width="650" height="650" alt="An illitration of a garden scene at night with Jesus alone in a white robe and brown sash standing on a stone path. The background features a full moon, starry sky, and tall cypress trees." src="{static}/images/issue3-images/jesus11.webp" >
 <br>
 <em>Chapter 3 Image.</em>
 </p>
@@ -293,7 +293,7 @@ This was the beginning of a very important week in Jesus’s life.
 
 <p align="center">
 <br>
-  <img width="650" height="650" alt="A nighttime illistration with Jesus in white robes and a green shawl speaking to a group. Torches held by armored guards illuminate the setting, which includes tall trees and a full moon in a cloudy sky. The mood is dramatic and reverent." src="https://github.com/user-attachments/assets/2e46a8b5-c1e1-49a8-a5e0-7146bb7792cd" >
+  <img width="650" height="650" alt="A nighttime illistration with Jesus in white robes and a green shawl speaking to a group. Torches held by armored guards illuminate the setting, which includes tall trees and a full moon in a cloudy sky. The mood is dramatic and reverent." src="{static}/images/issue3-images/jesus10.webp" >
 <br>
 <em>Chapter 3.1 Image</em>
 </p>
@@ -308,7 +308,7 @@ This was the beginning of a very important week in Jesus’s life.
   Jesus was taken to Pontius Pilate, the Roman governor. Pilate didn't think Jesus had done anything wrong, but the crowd, influenced by the religious leaders, demanded that Jesus be crucified. Jesus was sentenced to death and had to carry his cross to a place called Golgotha. He was crucified between two criminals. Even while suffering, Jesus forgave the people who were hurting him.
 
 <p align="center">
-<img width="650" height="650" alt="A cartoon-style illustration of Jesus carrying a large wooden cross, wearing a white robe and golden sash with a halo. He is surrounded by men, women, and children in traditional attire. The background includes green hills, a bright sun, and a clear sky." src="https://github.com/user-attachments/assets/5c48d63d-eddc-448e-80f0-3537c5f9d947" >
+<img width="650" height="650" alt="A cartoon-style illustration of Jesus carrying a large wooden cross, wearing a white robe and golden sash with a halo. He is surrounded by men, women, and children in traditional attire. The background includes green hills, a bright sun, and a clear sky." src="{static}/images/issue3-images/jesus14.webp" >
 <br>
 <em>Chapter 4 Image.</em>
 </p>
@@ -331,7 +331,7 @@ After saying these things, Jesus then died.
   Early on Easter Sunday, Mary Magdalene and some other women went to Jesus's tomb to take care of his body. But when they got there, they found the stone rolled away and the tomb empty. An angel told them that Jesus had risen from the dead, meaning he had come back to life. Mary Magdalene ran to tell the disciples, who didn't believe her at first but later saw Jesus themselves.
 
 <p align="center">
-<img width="650" height="650" alt="An illistration of Jesus in white robes emerging from a stone tomb, surrounded by angels in prayer and flight. Children and adults watch in awe. The sky glows with light rays and clouds." src="https://github.com/user-attachments/assets/0131ce26-0abd-49b8-895c-37c300fae6a9" >
+<img width="650" height="650" alt="An illistration of Jesus in white robes emerging from a stone tomb, surrounded by angels in prayer and flight. Children and adults watch in awe. The sky glows with light rays and clouds." src="{static}/images/issue3-images/jesus15.webp" >
 <br>
 <em>Chapter 5 Image</em>
 </p>

@@ -7,6 +7,8 @@ Authors: Jessie Pajak
 Bio: Jessie is a fourth-year Culture and Technology Studies student at the University of Guelph.
 Summary:
 
+<img src="{static}/images/issue3-images/subCoverArt-Shekhar.webp" alt="Map Submission Cover" style="width:25%">
+
 ## Introduction
 
 These infographics contextualize and explain overarching information about the CTRL+ALT+DH journal and information about what a journal is in general. The infographic titled What is CTRL+ALT+DH? informs the reader of pertinent information to the CTRL+ALT+DH journal. What is CTRL+ALT+DH has eight sections: CTS Student Journal; The Team; Journal Issues; Submissions; Format; Peer Review; Open-Source; Copyright and Citations. These sections outline specifics about how the journal functions and its publishing processes. The second infographic Journal Publishing defines the uses/practices of journals and articles and explains the various components needed to create an article. 
