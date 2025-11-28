@@ -7,8 +7,8 @@ Category: issues
 ## Dec. 2025
 
 <div style="display: flex; gap: 10px;">
-	<img src="{static}/images/cover-issue3-1.webp" style="width: 50%;" />
-	<img src="{static}/images/cover-issue3-2.webp" style="width: 50%;" />
+	<img src="{static}/images/cover-issue3-1.webp" style="width: 50%;" alt="Issue Cover by Melissa Tuniewicz & Isabella Viray"/>
+	<img src="{static}/images/cover-issue3-2.webp" style="width: 50%;" alt="Issue Cover by Melissa Tuniewicz & Isabella Viray"/>
 </div>
 
 <div class="article">
@@ -25,7 +25,7 @@ Category: issues
 <a href="{filename}/posts/issue3-3.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-MaxL.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-3.md">AI: The Thing that Frankenstein Warned Us Of</a></h3>
@@ -36,7 +36,7 @@ Category: issues
 <a href="{filename}/posts/issue3-4.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-MelissaT.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-4.md">Paws and Hearts: A Static Website Showcasing the Mental Health and Wellness Benefits of Pet Ownership</a></h3>
@@ -47,7 +47,7 @@ Category: issues
 <a href="{filename}/posts/issue3-5.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-JackHB.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-5.md">Bike.inc</a></h3>
@@ -58,7 +58,8 @@ Category: issues
 <a href="{filename}/posts/issue3-6.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-IainG.webp"
-		alt="Cover art" 
+		title="Credit: Melissa Tuniewicz"
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-6.md">Brick by Virtual Brick: Exploring BuildTheEarth</a></h3>
@@ -74,7 +75,7 @@ Category: issues
 <a href="{filename}/posts/issue3-8.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-Shekhar.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-8.md">Mapping Belonging: An Intersectional Critique of Islands in the North </a></h3>
@@ -90,7 +91,7 @@ Category: issues
 <a href="{filename}/posts/issue3-10.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-SarahJ.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-10.md">The Anatomy of a Corset</a></h3>
@@ -101,7 +102,7 @@ Category: issues
 <a href="{filename}/posts/issue3-11.md">
 	<img class="article-image"
 		src="{static}/images/issue3-images/subCoverArt-Jasmeen.webp"
-		alt="Cover art" 
+		alt="Cover art drawn by Melissa Tuniewicz" 
 		style="width: 25%;"/>
 </a>
 <h3><a href="{filename}/posts/issue3-11.md">Overconsumption</a></h3>

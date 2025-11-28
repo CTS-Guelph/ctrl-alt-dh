@@ -2,11 +2,13 @@
 Title: "AI and Landscape Architecture"
 Date: 2025-11-19 10:20
 Issue: Issue 3
-Citation: 
-Tags: 
+Citation: Pham, Jain, & Rees. "AI and Landscape Architecture." A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (year).
+Tags: architecture, mapping, artificial intelligence, AI, geography
 Authors: Emily Pham, Krish Jain, Natasha Rees
-Bio:
-Abstract:  
+Bio: I (Emily Pham) and two other BLA4s (Krish Jain and Natasha Rees) worked on a studio course that is taught by Afshin Ashari and Nadia Amoroso, Professors at UofG researching the extensive possibilities with AI and Landscape Architecture. Our class did an experiment with AI where part of the class would do a landscape architecture analysis and graphics conventionally, and the other part would do the same project but fully AI generated that can only be digitally touched up by 20%. It was to compare the graphical quality and efficiency. Our team did an analysis of Barcelona, Spain and their notable Superblocks urban planning layout and how this concept gets affected or affects Catalonian culture (tourism, soccer, faith, LGBTQIA+ communities and more). We used the programs: ChatGPT (partial research, captions, and SWOT analysis), Aino (site analysis), Google Gemini (graphics), and Adobe Firefly (graphics and touch ups). Issues with prompting and open-source data were apparent but we are excited to be able to learn and produce an interesting experimental project where we learned the advantages and drawbacks of artificial intelligence.
+Abstract: The Urban Atlas of Barcelona, Spain was a cityscape analysis project for the Bachelor's of Landscape Architecture (BLA) program's community design studio course. The team used storytelling to design how the urban fabric design of Barcelona impacts the way of life for current Catalonians. We focused on highlighting how the urban planning concept and application of SuperBlocks (3x3 apartment grid with reduced inner traffic) influences factors like religious values, community, pedestrian and vehicular circulation and more. For this project programs like Google Gemini, Adobe Firefly, ChatGPT were used for graphics and analysis. The most applicable program was Aino, an AI powered GIS platform for geographical data analysis. Overall, our team was able to focus on manipulating the AI to produce our creative ideas and story tell how superblocks show a different way of life in Barcelona.
 ---
 
-## Coming soon!
+![Page One Submission]({static}/images/issue3-images/issue3-2-image1.webp)
+![Page One Submission]({static}/images/issue3-images/issue3-2-image2.webp)
+![Page One Submission]({static}/images/issue3-images/issue3-2-image3.webp)
