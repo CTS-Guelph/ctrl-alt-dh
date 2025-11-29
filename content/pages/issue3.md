@@ -113,8 +113,3 @@ Category: issues
 <h3><a href="{filename}/posts/issue3-12.md">Soft Internet Theory</a></h3>
 <p>Adrian Morra, Tristan Sauer</p>
 </div>
-
-<div class="article">
-<h3><a href="{filename}/posts/issue3-13.md">[insert name here]</a></h3>
-<p>[insert author here]</p>
-</div>

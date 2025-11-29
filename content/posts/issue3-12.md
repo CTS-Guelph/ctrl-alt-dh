@@ -1,5 +1,5 @@
 ---
-Title: "Soft Internet Theory: Reclaiming the Human Pulse in the Digital Age"
+Title: "Soft Internet Theory"
 Date: 2025-11-28 10:20
 Curated by: Tristan Sauer  
 Author: Adrian Morra  
@@ -8,6 +8,8 @@ Tags: Digital culture, digital art, post-internet affect, technology, softness, 
 Bio: I, Adrian Morra, am a B.A. student majoring in Culture and Technology Studies, minoring in Marketing, with a strong passion for entrepreneurship.
 Abstract: This exhibition text examines Soft Internet Theory (Art Gallery of Guelph, 2025), curated by Tristan Sauer, and responds to the contemporary internet’s shift toward automation, algorithmic repetition, and synthetic content. Positioned against Dead Internet Theory’s narrative of digital decay, the exhibition proposes “softness” as an aesthetic, political, and affective mode for reclaiming human presence within machinic systems. Through works by Marisa Müsing, Shihab Mian, Laura Moore, Devlin MacPherson, and Matt Nish-Lapidus, the show foregrounds tactility, emotional labour, temporal friction, and material memory as forms of resistance to digital abstraction. Rather than advocating Luddite retreat, Soft Internet Theory offers a model of cohabitation between bodies and computation—where code becomes ritual, devices become memorials, and interfaces mediate care rather than efficiency. In reframing softness as an assertive mode of engagement rather than nostalgia, the exhibition asks how art can restore affective depth to networked culture and keep “the human in the loop” amid rising computational dominance.
 ---
+
+# Reclaiming the Human Pulse in the Digital Age
 
 ![Soft Internet Theory – Exhibition Image]({static}/images/issue3-images/SIT.webp)
 
