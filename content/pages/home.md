@@ -28,7 +28,7 @@ As a multi-media publication powered by students in the CTS program, we welcome 
 | **Editors /<br />Submissions** | Emily Scott, Shekhar Rana, Sara Jandrew |
 | **Graphic Design and Branding** | Melissa Tuniewicz, Iain Graham, Isabelle Viray, Anthony Polsinelli-Glasgow, Gabby Cole |
 | **Promotion and Marketing** | Scott Bracey, Alex Thorning, Adrian Morra, Jack Hunter-Buffington |
-| **Website Design and Maintenance** | Jeff Mckay, Adrian Morra, Gabby Cole, Iain Graham, Alex Thorning |
+| **Website Design and Maintenance** | Jeff Mckay, Adrian Morra, Gabby Cole, Iain Graham, Alex Thorning, Shashank Saravanan |
 
 ---
 ## Past Teams
