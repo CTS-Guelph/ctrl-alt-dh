@@ -7,8 +7,7 @@ Bio: Shekhar Rana is an undergraduate student in Culture & Technology Studies at
 Abstract: Islands in the North, a digital exhibit by Dr. Marlene Gaynair, remaps Toronto through the histories of Black Caribbean communities. This essay analyzes the project using Kimberlé Crenshaw’s theory of intersectionality, exploring how GIS mapping, archival storytelling, and digital design work together to reconstruct marginalized histories. Through a blend of critical analysis and personal reflection, the piece examines how digital creativity becomes a form of memory work and cultural preservation.
 ---
 
-![Interactive “Islands in the North” map showing Black cultural spaces across Toronto, with category filters and a timeline view.](/images/issue3-images/ShekharMDImage2.webp)
-
+<img max-width="600" alt="Interactive “Islands in the North” map showing Black cultural spaces across Toronto, with category filters and a timeline view." src="{static}/images/issue3-images/ShekharMDImage2.webp" />
 *Figure 1. Making Space –* Islands in the North.
 
 
@@ -21,8 +20,7 @@ As someone who grew up in Toronto, I felt an immediate connection to the project
 ### Re-Mapping Black Toronto
 Gaynair describes her project as a “(re)creation of space and place in the archive,” an effort to map what she calls “Black Toronto.” Using GIS tools, she visualizes cultural landmarks, community organizations, and gathering places, both past and present. The interface is clean yet extensive: users can explore the *Making Space* interactive map, browse the OMEKA-powered database, or attempt to load the now-inactive visual timeline, *Making Place*.
 
-![Black-and-white promotional poster for Scooter’s Roller World in Rexdale, featuring performer photos and event text.](/images/issue3-images/ShekharMDImage1.webp)
-
+<img max-width="600" alt="Black-and-white promotional poster for Scooter’s Roller World in Rexdale, featuring performer photos and event text." src="{static}/images/issue3-images/ShekharMDImage1.webp" />
 *Figure 2. Scooter’s Roller World Poster.*
 
 
@@ -66,3 +64,4 @@ Crenshaw, K. (2016, October). *The urgency of intersectionality* [Video]. TED Ta
 Gaynair, M. (n.d.). *Database - Islands in the North.* <https://items.islandsinthenorth.com/>
 
 Gaynair, M. (n.d.). *Islands in the North.* <https://islandsinthenorth.com/index.html>
+
