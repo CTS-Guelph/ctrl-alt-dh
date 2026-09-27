@@ -901,6 +901,13 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
     }
 } /* end of style for individual images*/
 
+/* Creating a red box for the author guidelines under review */
+.redbox {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
 
 
 

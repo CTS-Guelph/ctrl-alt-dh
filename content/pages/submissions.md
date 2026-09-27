@@ -6,6 +6,10 @@ Category: submissions
 Authors: Alexis Metaireau, Conan Doyle
 Summary: Submissions guidelines for authors.
 
+<div class="redbox">
+Author Guidelines are under review
+</div>
+
 CTRL+ALT+DH publishes once per year. We will begin accepting submissions for the new issue in October 2024 through OJS (more information to come).Only manuscripts of sufficient quality that meet the aims and scope of CTRL+ALT+DH will be reviewed.
 
 ## 1. What Do We Publish?
