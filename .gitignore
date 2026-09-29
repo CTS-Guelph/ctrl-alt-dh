@@ -1,0 +1,16 @@
+# Pelican build output (the GitHub Action rebuilds the live site itself)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+pelican-env/
+
+# Mac and editor files
+.DS_Store
+.vscode/
+
+# Secrets
+.env
