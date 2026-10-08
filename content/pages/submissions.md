@@ -39,7 +39,11 @@ Questions about the suitability of submissions may be directed at the editorial 
 
 ### 2.1 Peer Review Policy
 
-Works published in CTRL+ALT+DH will undergo open review. All communication between author and reviewer must be done through the editorial team.
+All submissions to CTRL+ALT+DH will undergo double-anonymous peer review, meaning that contributors and reviewers remain anonymous to one another throughout the review process. All communication between contributors and reviewers will be facilitated by the editorial team.
+
+Our peer-review process aims to provide contributors with thoughtful, constructive feedback to support the development of their work. Contributors may be asked to make revisions based on reviewer feedback before a final publication decision is made.
+
+For a more detailed explanation of double-anonymous peer review, please see this [overview from Taylor & Francis](https://authorservices.taylorandfrancis.com/publishing-your-research/peer-review/anonymous-peer-review/).
 
 ### 2.2 Authorship
 
