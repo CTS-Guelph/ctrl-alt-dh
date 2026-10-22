@@ -41,6 +41,8 @@ Questions about the suitability of submissions may be directed at the editorial 
 
 All submissions to CTRL+ALT+DH will undergo open review. All communication between authors and reviewers will be facilitated by the editorial team.
 
+However, in support of a fair and just review process, our editors will sign a conflict of interest declaration form, with which we will decide who reviews what.
+
 ### 2.2 Authorship
 
 It is important to include as authors all individuals who have made significant contributions to the article or project. Determining the primary author, the order of authorship, and other acknowledgments should reflect the level of input from each individual involved, independent of their position.
