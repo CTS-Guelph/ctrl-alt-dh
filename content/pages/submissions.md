@@ -10,7 +10,11 @@ Summary: Submissions guidelines for authors.
 Author Guidelines are under review
 </div>
 
-CTRL+ALT+DH publishes once per year. We will begin accepting submissions for the new issue in October 2024 through OJS (more information to come).Only manuscripts of sufficient quality that meet the aims and scope of CTRL+ALT+DH will be reviewed.
+CTRL+ALT+DH publishes once per year. We will begin accepting submissions for the new issue in October 2026 through OJS (more information to come).Only manuscripts of sufficient quality that meet the aims and scope of CTRL+ALT+DH will be reviewed.
+
+</br>
+Submit your work through the **[CTRL+ALT+DH submission portal](https://journal.lib.uoguelph.ca/index.php/CTRLJ)**.
+</br> </br>
 
 ## 1. What Do We Publish?
 
