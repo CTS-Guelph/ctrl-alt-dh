@@ -67,7 +67,7 @@ MENUITEMS = [
         ('CFP', '/cfp-2026.html')
     ]),
     ('Browse', '/tags.html'),
-    ('News', '/category/news.html'),
+    # ('News', '/category/news.html'), -- Decided against using the news tab 
 ]
 
 
