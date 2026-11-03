@@ -17,21 +17,21 @@ As a multi-media publication powered by students in the CTS program, we welcome 
 
 ---
 # Current Team: 
-## Issue 03 (Fall 2025)
+## Issue 04 (Fall 2026)
 
 | **Team Section:** | **Members:** |
 |------------------|-------------|
-| **Project Managers** | Scott Bracey, Jack Hunter-Buffington |
-| **Copyediting** | Graeme Newark, Sara Jandrew, Charly Bernal |
-| **Issue Launch Event** | Jasmeen Bhuller, Leo Barker, Naseeb Bains, Ava Tramonte, Anthony Polsinelli-Glasgow, Diego Marin |
-| **Admin /<br />Communications** | Lily Beaulne, Lauren Curry, Charly Bernal |
-| **Editors /<br />Submissions** | Emily Scott, Shekhar Rana, Sara Jandrew |
-| **Graphic Design and Branding** | Melissa Tuniewicz, Iain Graham, Isabelle Viray, Anthony Polsinelli-Glasgow, Gabby Cole |
-| **Promotion and Marketing** | Scott Bracey, Alex Thorning, Adrian Morra, Jack Hunter-Buffington |
-| **Website Design and Maintenance** | Jeff Mckay, Adrian Morra, Gabby Cole, Iain Graham, Alex Thorning, Shashank Saravanan |
+| **Admin and Policy** | Amir Benkelai, Hailey Polster |
+| **Copy Writing** | Darcey Hilliard, - |
+| **Editing** | Alexis Cole, - |
+| **Graphic Design** | -, - |
+| **Marketing** | Alexis Cole, Audrey Cullen |
+| **Website and UX** | Grace Barnabe, Tom Bergen, Thomas Hendriks, William Robertson |
 
 ---
 ## Past Teams
+
+Issue 03 (Fall 2025) - Naseeb Bains, Leo Barker, Lily Beaulne, Charly Bernal, Jasmeen Bhuller, Scott Bracey, Gabby Cole, Lauren Curry, Iain Graham, Jack Hunter-Buffington, Sara Jandrew, Diego Marin, Jeff Mckay, Adrian Morra, Graeme Newark, Anthony Polsinelli-Glasgow, Shekhar Rana, Shashank Saravanan, Emily Scott, Ava Tramonte, Melissa Tuniewicz, Alex Thorning, Isabelle Viray
 
 Issue 02 (Fall 2024) - Madalyn Congdon, David Toledo Moreno, Amelia Flynn, Grace Nelson, Joe Sutherland, Emily Fisher, Adrianna McKenna, Bennett Martin, Sabine Dajani, Javier Machado, Samantha Winnick, Hanna Duizer, Lala Rukh Lodhi
 
