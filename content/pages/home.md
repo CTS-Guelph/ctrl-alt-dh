@@ -21,12 +21,12 @@ As a multi-media publication powered by students in the CTS program, we welcome 
 
 | **Team Section:** | **Members:** |
 |------------------|-------------|
-| **Admin and Policy** | Amir Benkelai, Hailey Polster |
-| **Copy Writing** | Darcey Hilliard, - |
-| **Editing** | Alexis Cole, - |
-| **Graphic Design** | -, - |
-| **Marketing** | Alexis Cole, Audrey Cullen |
-| **Website and UX** | Grace Barnabe, Tom Bergen, Thomas Hendriks, William Robertson |
+| **Admin and Policy** | Ryann Beachli, Amir Benkelai, Hailey Polster |
+| **Copy Writing** | Madalyn D'Andrea, Ella Worth |
+| **Editorial** | Alexis Cole, Madalyn D'Andrea, Leah Gervais, Darcey Hilliard, Leah Loudon |
+| **Graphic Design** | Georgia Benjamin, Sierra Cole, Rebecca Logan, |
+| **Marketing** | Harmeen Bhatia, Alexis Cole, Sierra Cole, Audrey Cullen, Theo Howard, Rebecca Logan, Jake Rollin, Dawson Roy |
+| **Website and UX** | Grace Barnabe, Tom Bergen, Thomas Hendriks, Theo Howard, William Robertson |
 
 ---
 ## Past Teams
