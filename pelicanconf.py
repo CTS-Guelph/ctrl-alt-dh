@@ -56,18 +56,22 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 MENUITEMS = [
-    ('Issues', [
-        ('Issue 0', '/issue-0.html'),
-        ('Issue 1: Creating CTRL-ALT-DH', '/issue-1.html'),
-        ('Issue 2: Digital Dilemmas', '/issue-2.html'),
-		('Issue 3: A Byte of Creativity', '/issue-3.html')
+    ('Home', '/index.html'),
+    ('Issues', '/tags.html'),
+    ('Call for Submissions', [
+        ('2026', '/cfp-2026.html'),
+        ('2025', '/cfp-2025.html'),
+        ('2024', '/cfp-2024.html'),
     ]),
-    ('Submissions', [
-        ('Guidelines', '/guidelines.html'),
-        ('CFP', '/cfp-2026.html')
-    ]),
-    ('Browse', '/tags.html'),
-    # ('News', '/category/news.html'), -- Decided against using the news tab 
+    # ('Issues', [
+    #     ('Issue 0', '/issue-0.html'),
+    #     ('Issue 1: Creating CTRL-ALT-DH', '/issue-1.html'),
+    #     ('Issue 2: Digital Dilemmas', '/issue-2.html'),
+	# 	('Issue 3: A Byte of Creativity', '/issue-3.html')
+    # ]),
+    ('Guidelines', '/guidelines.html'),
+    #('News', '/category/news.html'),
+    ('About Us', '/about-us.html'),
 ]
 
 

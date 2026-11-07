@@ -3,6 +3,7 @@ Date: 2025-11-17
 Slug: issue-3
 Summary: Issue 03 Index
 Category: issues
+save_as: index.html
 
 ## Dec. 2025
 
