@@ -690,32 +690,40 @@ img.left, figure.left, div.figure.align-left {
 .contentinfo {
     padding-bottom: 2em;
     display: flex;
-    max-width: 75%;
+    justify-content: center;
+    gap: 2em;
+    max-width: 90%;
     margin: auto;
 }
 
 @media screen and (max-width: 896px) {
     .contentinfo  {
-        flex-direction: column;
         padding: 0.5em 0.5em;
     }
 }
 
 .contentinfo a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
 }
 
-.contentinfo a:hover {
-    background-color: none;
+.contentinfo a:hover,
+.contentinfo a:focus-visible {
+    color: #ffd166;
+    text-decoration: underline;
 }
 
 .site-info {
     flex: 1;
-    margin: 2em;
+    margin: 2em 0;
     font-family: 'Roboto', arial, serif;
     letter-spacing: 0.2em;
     font-size: 75%;
+}
+
+.site-info.contact {
+    flex: 2;
 }
 
 @media screen and (max-width: 896px) {

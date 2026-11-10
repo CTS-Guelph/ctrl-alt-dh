@@ -7,7 +7,7 @@
                         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                         <meta name="generator" content="Pelican" />
                         <title>{% block title %}{{ SITENAME|striptags }}{%endblock%}</title>
-                        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+                        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}?v=footer-links" />
                         {% if FEED_ALL_ATOM %}
                                 <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|striptags }} Atom Feed" />
                         {% endif %}
@@ -99,11 +99,13 @@
                 {% endblock %}
 
 
-                <div class ="footer">
+                <div id="footer" class="footer">
                 <div class = "contentinfo">
                 <div class="site-info contact">
                         <h2>Contact us:</h2>
                         ctrlaltdh@gmail.com
+                        &nbsp;&nbsp;
+                        <a href="https://www.instagram.com/ctrlaltdh/">Instagram: @Ctrlaltdh</a>
                 </div>
                 <div class="site-info learn">
                         <h2>Learn More:</h2>
