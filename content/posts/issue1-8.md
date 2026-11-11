@@ -2,7 +2,7 @@ Title: What is CTRL+ALT+DH? Journal Publishing Infographics
 Date: 2023-12-04 10:20
 Issue: Issue 1
 Citation: Pajak, Jessie. “What is CTRL+ALT+DH?; Journal Publishing Infographics.” CTRL+ALT+DH, no. 2 (2023).
-Tags: infographic, publishing
+Tags: Art & Image-Based, Education & Learning, Media & Communication, Design & Material Culture 
 Authors: Jessie Pajak
 Bio: Jessie is a fourth-year Culture and Technology Studies student at the University of Guelph.
 Summary:

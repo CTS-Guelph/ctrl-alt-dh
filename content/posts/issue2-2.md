@@ -2,7 +2,7 @@ Title: Resist
 Date: 2025-12-03 10:20
 Issue: Issue 2
 Citation: Benkela, Amir Mokrane. "Resist." Digital Dilemmas, special issue of Ctrl-Alt-DH, no. 2 (2025).
-Tags: short story, research-creation
+Tags: Articles & Essays, Capitalism, Community & Enviornment, Artificial-Intelligence
 Authors: Amir Mokrane Benkelai
 Abstract: Resist is a short story written in slight poetic prose form dedicated to highlighting the growing issue of electronic waste coming from cheap electronics manufacturing.
 Bio: Amir Benkelai (he/they) is a student at the University of Guelph studying Creative Writing and Culture & Technology Studies, with a passion for poetry, fiction, screenwriting, and ludology, to name a few. In his free time, he enjoys spending time outside at social hangouts, gaming, and/or reading.
