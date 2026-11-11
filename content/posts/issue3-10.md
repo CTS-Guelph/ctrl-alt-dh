@@ -3,7 +3,7 @@ Title: "The Anatomy of a Corset"
 Date: 2023-02-28 10:20
 Issue: Issue 3
 Citation: 
-Tags: Datavis, Corsets, Mapping, History
+Tags: Data & Mapping, History & Memory, Design & Material Culture, Interactive
 Authors: Sara Jandrew
 Bio: Sara (she/her) is an undergraduate student at the University of Guelph, studying Art History and CTS. She loves thrifting, museums, horror movies and has a dog named Aussie. She wrote this project in her first year in the class CTS 2010.
 Abstract: This is my "The Anatomy of a Corset" Project. I created this project as an assignment for class (CTS 2010) in my second year; we had to select a technology and create a series of projects surrounding the technology. One of the assignments was to create a map about an aspect of the technology. My technology was corsets, and I broke down each material that goes into creating one, mapping where each material would have been made.
