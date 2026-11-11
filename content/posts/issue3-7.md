@@ -13,14 +13,9 @@ abstract: >
   In several rounds of collaboration, the author polished the details of the narrative, the theological precision, the text’s visual age appropriateness, 
   and produced Jesus’s Easter Story: From Darkness to Light. The reflection on the project speaks to the creative, technical, 
   and ethical facets of using AI in a religious context, outlining the value of technological aid and signifying the need for human oversight, empathy, and understanding of culture.
-citation: "Curry, Lauren. 'Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling.' CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025."
-tags:
-  - AI and Creativity
-  - digital storytelling
-  - Children's Literature
-  - Religious Education
-  - Ethics of AI
-  - Human-AI Collaboration
+Citation: "Curry, Lauren. 'Jesus’s Easter Story: From Darkness to Light — A Reflection on AI Collaboration in Religious Storytelling.' CTRL+ALT+DH: A Byte of Creativity, Issue 3, October 15, 2025."
+Tags: Artificial-Intelligence, Design & Material Culture, Education & Learning, Art & Image-Based, Identity & Personal Experience
+
 ---
 
 <br>

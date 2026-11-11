@@ -1,7 +1,7 @@
 ---
 Title: "Mapping Belonging: An Intersectional Critique of *Islands in the North"
 Date: 2025-11-19 10:20
-Tags: archive, digital humanities, GIS Mapping, Black Toronto, intersectionality, Data Activism, digital archives, Creative Memory Work
+Tags: History & Memory, Data & Mapping, Community & Environment, Identity & Personal Experience, Articles & Essays
 Author: Shekhar Rana
 Bio: Shekhar Rana is an undergraduate student in Culture & Technology Studies at the University of Guelph, with research interests in digital storytelling, data ethics, and community-based archives.
 Abstract: Islands in the North, a digital exhibit by Dr. Marlene Gaynair, remaps Toronto through the histories of Black Caribbean communities. This essay analyzes the project using Kimberlé Crenshaw’s theory of intersectionality, exploring how GIS mapping, archival storytelling, and digital design work together to reconstruct marginalized histories. Through a blend of critical analysis and personal reflection, the piece examines how digital creativity becomes a form of memory work and cultural preservation.

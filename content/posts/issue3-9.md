@@ -3,7 +3,7 @@ Title: "I-Am-Data"
 Date: 2025-04-21 10:20
 Issue: Issue 3
 Citation: Isabelle Viray, I-Am-Data, 2025, digital collage, GitHub, https://ivirayy.github.io/I-Am-Data/.
-Tags: self-portrait, digital art, data surveillance, privacy, identity
+Tags: Identity & Personal Experience, Power & Surveillance, Data & Mapping, Capitalism, Art & Image-Based, Articles & Essays
 Authors: Isabelle Viray
 Bio: Isabelle Viray (she/her) is a Culture and Technology Studies student with a minor in Media and Cinema Studies. Driven by a passion for visual storytelling, design, and the digital humanities, she spends her practice finding artistic and meaningful ways to connect with diverse communities.
 Abstract: I-am-Data is a digitized self-portrait collage displayed on an HTML-based page. This piece explores identity and expression through various levels of data collection, from self-tracking to passive surveillance. Reflecting on the relationship between the online self and the platforms, interfaces, and applications that help shape it, I-Am-Data critiques methods used to categorize and monitor users. By visualizing these dynamics, this self-portrait questions the sense of self when defined by data.
