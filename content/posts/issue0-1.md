@@ -1,6 +1,6 @@
 Title: Issue 0 Editorial
 Date: 2023-04-17
-Tags: open access, publishing, digital culture, technology, editorial
+Tags: Editorial
 Issue: Issue 0
 Category: 
 Citation: Ameresekere, Neluka, Susane Dang, Kelly Hughes, and Jingyi Long. "Editorial." CTRL+ALT+DH, no. 2 (2023).
