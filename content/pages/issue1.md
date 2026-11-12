@@ -5,14 +5,6 @@ Summary: Issue 01 Index
 Category: issues
 Slug: issue-1
 
-## Dec. 2023
-
-<div class="index-cover">
-<figure>
-<img src="{static}/images/cover-issue1.webp">
-</figure>
-</div>
-
 <div class="article">
 <h3><a href="{filename}/posts/issue1-1.md">Editorial</a></h3>
 <p>Olivia Afonso, Jackson Grant, Jacquelyn Passarelli, and Jessie Pajak</p>
@@ -56,4 +48,12 @@ Slug: issue-1
 <div class="article">
 <h3><a href="{filename}/posts/issue1-8.md">What is CTRL+ALT+DH?; Journal Publishing Infographics</a></h3>
 <p>Jessie Pajak</p>
+</div>
+
+## Dec. 2023
+
+<div class="index-cover">
+<figure>
+<img src="{static}/images/cover-issue1.webp">
+</figure>
 </div>
