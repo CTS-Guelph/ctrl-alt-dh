@@ -16,5 +16,5 @@ Slug: issue-0
 <div class="article">
 <h3><a href="{filename}/posts/issue0-1.md">Editorial</a></h3>
 <p>Neluka Ameresekere, Susane Dang, Kelly Hughes, and Jingyi Long</p>
+<p class="article-tags"><strong>Tags:</strong> Editorial</p>
 </div>
-
