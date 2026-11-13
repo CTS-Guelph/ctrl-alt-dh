@@ -3,7 +3,7 @@ Title: "Paws and Hearts: A Static Website Showcasing the Mental Health and Welln
 Date: 2025-07-30 10:20
 Issue: Issue 3
 Citation: 
-Tags: 
+Tags: Art & Image-Based, Articles & Essays, Community & Environment, Mental Health & Wellness, Identity & Personal Experience
 Authors: Melissa Tuniewicz
 Bio:
 Abstract: Paws and Hearts is a community-driven minimal computing project that presents a collection of stories and photographs highlighting the mental health and wellness benefits of pet ownership. With stories sent in by real individuals, each contribution is raw and authentic, helping to create a wholesome online space where vulnerability is encouraged. Enhanced by original illustrations and guided by web design and user experience principles, it stands as an online space that seamlessly blends scholarly research and creativity, presenting a potentially sensitive subject matter into a visually immersive digital format.

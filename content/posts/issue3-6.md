@@ -3,7 +3,7 @@ Title: "Brick by Virtual Brick: Exploring BuildTheEarth"
 Author: Iain Graham
 Date: 2025-11-22
 Issue: Issue 3
-Tags: digital storytelling, blog, archive, game, mapping, community, digital culture, open access
+Tags: Articles & Essays, Community & Environment, Data & Mapping, Design & Material Culture
 Citation: Graham, Iain. "Brick by Virtual Brick: Exploring BuildTheEarth" A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (2026).
 Bio: Iain Graham is a undergraduate student majoring in Culture and Technology Studies with a minor in Studio Art at the University of Guelph. When he is not designing CTRL+ALT+DH's website for Issue 3, he enjoys video games, art, and even more nerdy hobbies he is too embarrassed to put in his bio.
 Abstract: Launched in 2020, BTE brings together amateur and experienced builders who use real-world data, personal memories, and local knowledge to rebuild the world block by block. In doing so, the project becomes a form of digital storytelling; a way for people to document their surroundings, histories, and cultures through interactive, community-driven design. While BTE’s scope is impressive, the project is not without its challenges—its fragmented team structure can make collaboration difficult, onboarding is far from intuitive, and its reliance on volunteer builders raises questions about sustainability. Even so, BTE offers a fascinating look at how virtual spaces can hold human stories, making it a unique and ambitious attempt to archive the world through play.
