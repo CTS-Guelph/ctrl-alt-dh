@@ -3,7 +3,7 @@ Title: "Introduction: A Byte of Creativity"
 Date: 2025-11-28 10:20
 Issue: Issue 3
 Citation: Jandrew, Sara. "Editorial." A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (year).
-Tags: editorial
+Tags: Editorial
 Authors: Sara Jandrew
 Summary: Editorial for the Issue 3 of CTRL-ALT-DH: A Byte of Creativity.
 ---
