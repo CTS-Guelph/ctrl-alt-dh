@@ -19,12 +19,12 @@ Slug: issue-1
 </div>
 
 <div class="article">
-<h3><a href="{filename}/posts/issue1-2.md">The Creation of CTRL-ALT-DH</a></h3>
+<h3><a href="{filename}/posts/issue1-2.md">The Creation of CTRL+ALT+DH</a></h3>
 <p>Leah LaHaie</p>
 </div>
 
 <div class="article">
-<h3><a href="{filename}/posts/issue1-3.md">What Should I Submit to CTRL-ALT-DH? A Twine Story</a></h3>
+<h3><a href="{filename}/posts/issue1-3.md">What Should I Submit to CTRL+ALT+DH? A Twine Story</a></h3>
 <p>Leah LaHaie</p>
 </div>
 
