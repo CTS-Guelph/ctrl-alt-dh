@@ -3,7 +3,7 @@ Date: 2023-12-04 10:20
 Issue: Issue 1
 status: hidden
 Citation: LaHaie, Leah. "The Creation of CTRL+ALT+DH." CTRL+ALT+DH, no. 2 (2023).
-Tags: infographic, publishing
+Tags: History & Memory, Media & Communication, Art & Image-Based, Editorial
 Authors: Leah LaHaie
 Bio: Jacquelyn is currently finishing her undergraduate degree majoring in Culture and Technology Studies, with a minor in Human Resources. In the future, she hopes to work within the areas of information science, organizational behaviour, and digital sustainability.
 
