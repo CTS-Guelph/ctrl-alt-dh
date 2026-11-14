@@ -9,6 +9,7 @@ body {
 }
 
 #banner nav {
+    display: none;
     -moz-border-radius: 0px;
     margin-bottom: 20px;
     overflow: hidden;

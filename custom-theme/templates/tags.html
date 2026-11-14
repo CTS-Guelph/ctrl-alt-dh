@@ -5,13 +5,6 @@
 {% block content %}
 <section id="content" class="body">
 
-    <h1>Browse By Tag</h1>
-    <ul>
-        {% for tag, articles in tags|sort %}
-            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-        {% endfor %}
-    </ul>
-
 <h1>Browse By Issue</h1>
 
 <div class="issue-covers">
@@ -46,5 +39,11 @@
 
 </div>
 
+    <h1>Browse By Tag</h1>
+    <ul>
+        {% for tag, articles in tags|sort %}
+            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+        {% endfor %}
+    </ul>
 </section>
 {% endblock %}
