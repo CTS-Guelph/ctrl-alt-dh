@@ -17,4 +17,3 @@ Slug: issue-0
 <h3><a href="{filename}/posts/issue0-1.md">Editorial</a></h3>
 <p>Neluka Ameresekere, Susane Dang, Kelly Hughes, and Jingyi Long</p>
 </div>
-

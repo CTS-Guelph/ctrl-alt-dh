@@ -1,6 +1,6 @@
 Title: What Should I Submit to CTRL+ALT+DH? A Twine Story
 Date: 2023-12-04
-Tags: Twine, research-creation
+Tags: Media & Communication, Editorial
 Issue: Issue 1
 Citation: Passarelli, Jacquelyn. "What Should I Submit to CTRL+ALT+DH? A Twine Story." CTRL+ALT+DH, no. 2 (2023).
 Authors: Jacquelyn Passarelli

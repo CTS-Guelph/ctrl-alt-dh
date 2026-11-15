@@ -2,7 +2,7 @@ Title: An Essay about the Unexpected Obstacles of Creating a Journal
 Date: 2023-12-04 10:20
 Issue: Issue 1
 Citation: Grant, Jackson. “An Essay about the Unexpected Obstacles of Creating a Journal.” CTRL+ALT+DH, no. 2 (2023).
-Tags: reflection, publishing, essay
+Tags: Editorial, Articles & Essays, History & Memory
 Authors: Jackson Grant
 Bio: Jackson Grant is a fourth-year student at the University of Guelph majoring in Creative Writing and minoring in English. He one day hopes to be the author of his own series of novels.
 Summary:
