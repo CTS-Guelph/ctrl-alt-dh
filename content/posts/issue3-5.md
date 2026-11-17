@@ -3,7 +3,7 @@ Title: Bike.inc
 Date: 2025-10-8 4:45
 Issue: Issue 3
 Citation: Hunter-Buffington, Jack. "Bike.inc" A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (2025).
-Tags: bike, bicycles, game, digital storytelling, sustainability, research-creation, choose-your-own-adventure
+Tags: Capitalism, Community & Environment, Design & Material Culture, Interactive
 Keywords: Bike, Sustainability, Storytelling, Creative
 Authors: Jack Hunter-Buffington
 Bio: Jack Hunter-Buffington also known as hbtheblogger. A 4th Year CTS Major in the Co-Op program. Sometimes cycling. Always creating. Staying curious, seeking adventure, and taking photos along the way. He's probably at your local thrift store... or drinking coffee... or both.
