@@ -12,13 +12,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:wght@400;600;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Audiowide&effect=anaglyph&display=swap"); /* new import Nov, 2025 */
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&display=swap"); /* new import Nov, 2026 */ /* new import Nov, 2025 */
+@import url("https://fonts.googleapis.com/css2?family=Prosto+One&display=swap"); /* new import Nov, 2026 */
 /***** Global *****/
 /* Body */
 body {
     background: #F5F4EF;
-    color: black;
+    color: #2B175C;
     font-size: 125%; /* base font is 16px */
-    font-family: "Libertinus Serif", Georgia, Cambria, "Times New Roman", Times, serif;
+    font-family: "Encode Sans Expanded", "Libertinus Serif", Georgia, Cambria, "Times New Roman", Times, serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -45,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;
     margin-bottom: .8em;
     /*font-family: 'Roboto', arial, serif; */
-    font-family: 'Audiowide', arial, serif; /* 'Audiowide' was 'Roberto' */
+    font-family: 'Prosto One','Audiowide', arial, serif; /* 'Audiowide' was 'Roberto' */
 }
 
 
@@ -227,7 +229,7 @@ img.left, figure.left, div.figure.align-left {
 }
 
 #banner h1 a:link, #banner h1 a:visited {
-    color: #0055FF;
+    color:    #578FFF;
     display: block;
     font-weight: bold;
     text-decoration: none;
@@ -243,7 +245,7 @@ img.left, figure.left, div.figure.align-left {
 /* Main Nav */
 
 #banner nav {
-    background: #0055FF;
+    background: #F5B422;
     font-family: 'Roboto', arial, serif;
     font-size: 1em;
     line-height: 30px;
