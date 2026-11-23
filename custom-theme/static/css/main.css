@@ -919,10 +919,22 @@ li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
     font-weight: bold;
 }
 
+.article .container {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 20px;
+}
 
+.article img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
 
-
-
+.article .text {
+    flex: 1;
+}
 
 
 
