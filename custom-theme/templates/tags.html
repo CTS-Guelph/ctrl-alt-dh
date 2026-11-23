@@ -9,48 +9,155 @@
 
 <div class="issue-covers">
 
-<figure>
-<a href="{{ SITEURL }}/coming-soon.html">
-<img src="{{ SITEURL }}/images/temp-cover-issue4.webp">
-</a>
-<figcaption>Coming Soon, Issue 4</figcaption>
-</figure>
+    <figure>
+    <a href="{{ SITEURL }}/coming-soon.html">
+    <img src="{{ SITEURL }}/images/temp-cover-issue4.webp">
+    </a>
+    <figcaption>Coming Soon, Issue 4</figcaption>
+    </figure>
 
-<figure>
-<a href="{{ SITEURL }}/issue-3.html">
-<img src="{{ SITEURL }}/images/cover-issue3-1.webp">
-</a>
-<figcaption>December 2025, Issue 3</figcaption>
-</figure>
+    <figure>
+    <a href="{{ SITEURL }}/issue-3.html">
+    <img src="{{ SITEURL }}/images/cover-issue3-1.webp">
+    </a>
+    <figcaption>December 2025, Issue 3</figcaption>
+    </figure>
 
-<figure>
-<a href="{{ SITEURL }}/issue-2.html">
-<img src="{{ SITEURL }}/images/cover-issue2.webp">
-</a>
-<figcaption>December 2024, Issue 2</figcaption>
-</figure>
+    <figure>
+    <a href="{{ SITEURL }}/issue-2.html">
+    <img src="{{ SITEURL }}/images/cover-issue2.webp">
+    </a>
+    <figcaption>December 2024, Issue 2</figcaption>
+    </figure>
 
-<figure>
-<a href="{{ SITEURL }}/issue-1.html">
-<img src="{{ SITEURL }}/images/cover-issue1.webp">
-</a>
-<figcaption>December 2023, Issue 1</figcaption>
-</figure>
+    <figure>
+    <a href="{{ SITEURL }}/issue-1.html">
+    <img src="{{ SITEURL }}/images/cover-issue1.webp">
+    </a>
+    <figcaption>December 2023, Issue 1</figcaption>
+    </figure>
 
-<figure>
-<a href="{{ SITEURL }}/issue-0.html">
-<img src="{{ SITEURL }}/images/cover-issue0.webp">
-</a>
-<figcaption>April 2023, Issue 0</figcaption>
-</figure>
+    <figure>
+    <a href="{{ SITEURL }}/issue-0.html">
+    <img src="{{ SITEURL }}/images/cover-issue0.webp">
+    </a>
+    <figcaption>April 2023, Issue 0</figcaption>
+    </figure>
 
+
+<!--  ======================================================================  -->
+
+<!--Setting our list of tags for each group here-->
+<!--NOTE!!! In the current setup, tags that do NOT MATCH THIS LIST will NOT BE DISPLAYED. Please modify these lists first if you want to add new tags in the future-->
+
+<!-- Content Tags -->
+{% set content_tags = [
+    
+    'Power & Surveillance',
+    'Capitalism',
+    'Community & Environment',
+    'Artificial-Intelligence',
+    'Identity & Personal Experience',
+    'History & Memory',
+    'Data & Mapping',
+    'Design & Material Culture',
+    'Politics & Ethics',
+    'Media & Communication',
+    'Science & Innovation',
+    'Education & Learning',
+    'Mental Health & Wellness'
+] %}
+
+<!-- Format Tags -->
+{% set format_tags = [
+
+    'Articles & Essays',
+    'Audio & Music',
+    'Art & Image-Based',
+    'Interview',
+    'Interactive',
+    'Archive & Physical Media',
+    'Videos',
+    'Editorial'
+] %}
+
+
+<!--Browse By Tag section-->
 </div>
 
     <h1>Browse By Tag</h1>
-    <ul>
-        {% for tag, articles in tags|sort %}
-            <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-        {% endfor %}
-    </ul>
+    
+    <!--Creating an equally spaced 2 column container for the Tags (overflow-y: auto creates a scroll bar if the columns get too long) 
+    Also for reference, list-style:none removes the bullet points, feel free to change if you like. Padding: 0 also removes the default padding.
+    -->
+    <div style="
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        list-style: none;
+        
+    ">
+        
+        <!-- CONTENT COLUMN -->
+        <section style="min-width: 0;">
+            <h2>Content</h2>
+            
+            <!--Explanations: tabindex = "0" -->
+            <div style="height: 450px; overflow-y: auto;"
+                tabindex = "0"
+                role = "region"
+                aria-label = "Content tags">
+
+                <ul>
+                    <!-- Getting every Content tag and sorting them all alphabetically -->
+                    {% for tag, articles in tags|sort %}
+                        {% if tag|string in content_tags %}
+                            <li>
+                                <!-- Making the tags clickable and setting their display name-->
+                                <a href="{{ SITEURL }}/{{ tag.url }}">
+                                    {{ tag }}
+                                </a>
+                                <!-- Display the count of articles for each tag -->
+                                ({{ articles|count }})
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </section>
+
+
+        <!-- FORMAT COLUMN -->
+        <section style="min-width: 0;">
+            <h2>Format</h2>
+
+            <!--Explanations: tabindex = "0" -->
+            <div style="height: 400px; overflow-y: auto;"
+                tabindex = "0"
+                role = "region"
+                aria-label = "Format tags">
+
+                <ul>
+                    <!-- Getting every Format tag and sorting them all alphabetically -->
+                    {% for tag, articles in tags|sort %}
+                        {% if tag|string in format_tags %}
+                            <li>
+                                <!-- Making the tags clickable and setting their display name-->
+                                <a href="{{ SITEURL }}/{{ tag.url }}">
+                                    {{ tag }}
+                                </a>
+                                <!-- Display the count of articles for each tag -->
+                                ({{ articles|count }})
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+
+            </div>
+        </section>
+
+
+    </div>
 </section>
 {% endblock %}
