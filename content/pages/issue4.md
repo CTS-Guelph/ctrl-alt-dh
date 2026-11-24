@@ -20,7 +20,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-1.md">
                     Because you listen to Sleep Token...
                 </a>
             </h3>
@@ -39,7 +39,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-2.md">
                     What do Humanities Students do, Anyways? A Photography Collection & Critical Reflection
                 </a>
             </h3>
@@ -58,7 +58,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-3.md">
                     Aperture of the Soul : A Short Narrative
                 </a>
             </h3>
@@ -77,7 +77,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-4.md">
                     Just Sports Advertisement
                 </a>
             </h3>
@@ -97,7 +97,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-5.md">
                     Quantified Self Data: Exploring identity through algorithms
                 </a>
             </h3>
@@ -116,7 +116,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-6.md">
                     Thousands of Steps to Fulfillment
                 </a>
             </h3>
@@ -135,7 +135,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-7.md">
                     Surveilling hbtheblogger's Instagram Feed: A Self-Quantified Data Project
                 </a>
             </h3>
@@ -154,7 +154,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-8.md">
                     Digital Project Critique - ImageNet Roulette
                 </a>
             </h3>
@@ -173,7 +173,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-9.md">
                     Platform Politics: A critical post on Tarleton Gillespie's "The politics of platforms"
                 </a>
             </h3>
@@ -192,7 +192,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-10.md">
                     The Wi-Fi is Down
                 </a>
             </h3>
@@ -211,7 +211,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-11.md">
                     Social Media & Youth: The Well-Being of the Self
                 </a>
             </h3>
@@ -230,7 +230,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-12.md">
                     The OCD Awareness Museum
                 </a>
             </h3>
@@ -249,7 +249,7 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-13.md">
                     The Impact of External Pressure on Cybersecurity Decision Making
                 </a>
             </h3>
@@ -268,11 +268,11 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
-                    Control-Find: A Short Puzzle Game for Non-Gamerss
+                <a href="{filename}/posts/issue4-14.md">
+                    What are the Risks of Children and Adolescents Sharing Personal Information on Social Media Platforms? 
                 </a>
             </h3>
-            <p>Tom Bergen</p>
+            <p>Thomas Hendriks</p>
             <p>lorem ipsum dolor sit amet consectetur adipiscing elit anim quo expedita enim dignissimos non ut sit occaecat et at veniam nulla quod tempore molestias et laborum ullamco tempor fugiat dignissimos omnis tempor sint nulla quas aliquip sunt in sed cupidatat ex id non consectetur dolor est reprehenderit quo officia mollit </p>
         </div>
     </div>
@@ -287,7 +287,26 @@ Category: issues
 
         <div class="text">
             <h3>
-                <a href="{filename}/posts/issue3-1.md">
+                <a href="{filename}/posts/issue4-15.md">
+                    Control-Find: A Short Puzzle Game for Non-Gamerss
+                </a>
+            </h3>
+            <p>Tom Bergen</p>
+            <p>lorem ipsum dolor sit amet consectetur adipiscing elit anim quo expedita enim dignissimos non ut sit occaecat et at veniam nulla quod tempore molestias et laborum ullamco tempor fugiat dignissimos omnis tempor sint nulla quas aliquip sunt in sed cupidatat ex id non consectetur dolor est reprehenderit quo officia mollit </p>
+        </div>
+    </div>
+</div>
+
+<div class="article">
+    <div class="container">
+        <img class="article-image"
+		src="{static}/images/issue3-images/subCoverArt-MelissaT.webp"
+		alt="Cover art drawn by Melissa Tuniewicz"
+		style="width: 25%;"/>
+
+        <div class="text">
+            <h3>
+                <a href="{filename}/posts/issue4-16.md">
                     Steam and Digital Surveillance: A Self-Portrait Collage
                 </a>
             </h3>
