@@ -1,8 +1,9 @@
-Title: "Issue 4: A Byte of Creativity"
+Title: Issue 4: A Byte of Creativity
 Date: 2026-11-22
 Slug: issue-4
 Summary: Issue 04 Index
 Category: issues
+save_as: index.html
 
 <!-- The cover of our issue-->
 <div class="index-cover">
