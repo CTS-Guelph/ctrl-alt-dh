@@ -71,7 +71,10 @@ MENUITEMS = [
     # ]),
     ('Guidelines', '/guidelines.html'),
     #('News', '/category/news.html'),
-    ('About Us', '/about-us.html'),
+    ('About Us', [
+        ('About Us', '/about-us.html'),
+        ('Past Teams', '/pastTeams.html')
+    ]),
 ]
 
 
