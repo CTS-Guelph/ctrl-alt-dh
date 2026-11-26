@@ -5,12 +5,11 @@ Summary: Issue 04 Index
 Category: issues
 save_as: index.html
 
-<!-- The cover of our issue-->
-<div class="index-cover">
-<figure>
-<img src="{static}/images/cover-issue4.webp">
-</figure>
+<div style="display: flex; gap: 10px;">
+	<img src="{static}/images/cover-issue4-1.webp" style="width: 50%;" alt="Issue Cover by Georgia Benjamin & Ryann Beachli"/>
+	<img src="{static}/images/cover-issue4-2.webp" style="width: 50%;" alt="Issue Cover by Georgia Benjamin & Ryann Beachli"/>
 </div>
+
 
 <div class="article">
     <div class="container">
