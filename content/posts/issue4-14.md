@@ -12,8 +12,12 @@ Abstract: This project explores the risks associated with children and adolescen
 # What are the risks of children and adolescents sharing personal information on social media platforms?
 
 <p align="center"> 
-  <!--- As I said, I learned how to make collapsible sections, I also learned how to make things centered for organization https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d --->
-  <img width="700" height="900" alt="Image of Final Project Poster" src={static]/images/issue4-images/hendriksthomasrisksimg1 />
+  <img 
+    width="700" 
+    height="900" 
+    alt="Image of Final Project Poster" 
+    src={static}/images/issue4-images/hendriksthomasrisksimg1.webp
+    >
 <p align="center"> 
 <sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health") </sub> 
 </p>
