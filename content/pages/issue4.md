@@ -83,7 +83,7 @@ save_as: index.html
                 </a>
             </h3>
             <p>Dawson Roy</p>
-            <p>lorem ipsum dolor sit amet consectetur adipiscing elit anim quo expedita enim dignissimos non ut sit occaecat et at veniam nulla quod tempore molestias et laborum ullamco tempor fugiat dignissimos omnis tempor sint nulla quas aliquip sunt in sed cupidatat ex id non consectetur dolor est reprehenderit quo officia mollit </p>
+            <p>This essay examines Novig’s “Just Sports” advertising campaign featuring Sydney Sweeney through the lens of digital storytelling and ethics. It explores how visual choices, celebrity appeal, and the representation of women in sports shape the campaign’s message. The essay also considers responses from female athletes and proposes an alternative approach that highlights their athletic accomplishments. </p>
         </div>
     </div>
 </div>
@@ -179,7 +179,7 @@ save_as: index.html
                 </a>
             </h3>
             <p>Madalyn D'Andrea</p>
-            <p>lorem ipsum dolor sit amet consectetur adipiscing elit anim quo expedita enim dignissimos non ut sit occaecat et at veniam nulla quod tempore molestias et laborum ullamco tempor fugiat dignissimos omnis tempor sint nulla quas aliquip sunt in sed cupidatat ex id non consectetur dolor est reprehenderit quo officia mollit </p>
+            <p> A Critical Post on Tarleton Gillespie's 'The politics of platforms' discusses the disproportionate power that is placed upon the general public by big tech figureheads like YouTube and Google. While sites typically run by smaller independant teams constantly struggle to manage their site due to lack of funding or possible copyrighted material. The fear and worries that smaller creators face, whether they are running a website or are a content creator are pushed into the troubles of navigating the perpetual, ever changing climate that is the internet "governed" by mega corporations. </p>
         </div>
     </div>
 </div>
@@ -255,7 +255,7 @@ save_as: index.html
                 </a>
             </h3>
             <p>Thomas Hendriks</p>
-            <p>lorem ipsum dolor sit amet consectetur adipiscing elit anim quo expedita enim dignissimos non ut sit occaecat et at veniam nulla quod tempore molestias et laborum ullamco tempor fugiat dignissimos omnis tempor sint nulla quas aliquip sunt in sed cupidatat ex id non consectetur dolor est reprehenderit quo officia mollit </p>
+            <p>This project explores how external pressures and distractions influence cybersecurity decision-making. Three serious games were built using the A.I. platform Base44, while researching serious games, simulation-based design, cybersecurity, and human behaviour. Each game placed players in a cybersecurity scenario in which they had to deal with built-in distractions: Managing passwords while being distracted by the manager, identifying email scams while driving, and dealing with computer viruses while supervising a child. User feedback was collected to see how these pressures affect focus, memory, and decision-making. By combining cybersecurity education with simulated everyday distractions, this project looks into how the pressures of digital and physical environments can influence cybersecurity behaviour and contribute to the anxiety people experience in a digital world.  </p>
         </div>
     </div>
 </div>
