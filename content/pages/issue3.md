@@ -1,4 +1,4 @@
-Title: "Issue 3: A Byte of Creativity"
+Title: Issue 3: A Byte of Creativity
 Date: 2025-11-17
 Slug: issue-3
 Summary: Issue 03 Index
