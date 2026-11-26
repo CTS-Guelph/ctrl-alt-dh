@@ -11,12 +11,7 @@ Abstract: This project explores the risks associated with children and adolescen
 
 # What are the risks of children and adolescents sharing personal information on social media platforms?
 
-<details>
-<summary> Click Here to See Full Poster </summary>
-<p align="center"> 
-  <!--- As I said, I learned how to make collapsible sections, I also learned how to make things centered for organization https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d --->
-  <img width="700" height="900" alt="Image of Final Project Poster" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
-<p align="center"> 
+<figure class="art-image">
+<img width="700" height="900" alt="Image of Final Project Poster" src="{static}/images/issue4-images/hendriksthomasrisksimg1.webp" />
 <sub> (Image of the final poster showing the overall project. This includes a project summary, why the project matters, all the games I built, steps it took to create the project, study and topic discoveries, and game ratings.) </sub> 
-</p>
-</details>
+</figure>
