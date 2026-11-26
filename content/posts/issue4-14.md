@@ -13,6 +13,6 @@ Abstract: This project explores the risks associated with children and adolescen
 
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg1.webp    --->
 <figure class="art-image">
-<img width="700" height="900" alt="Image of Final Project Poster" src="" />
-<sub> (Image of the final poster showing the overall project. This includes a project summary, why the project matters, all the games I built, steps it took to create the project, study and topic discoveries, and game ratings.) </sub> 
+<img width="1200" height="600" alt="social-media-a-silent-killer-of-your-mental-health" src="https://github.com/user-attachments/assets/06cb019d-85dc-4ae4-9fa5-8a22be076ce4" />
+<sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health.") </sub> 
 </figure>
