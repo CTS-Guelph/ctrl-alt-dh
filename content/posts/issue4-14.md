@@ -29,6 +29,7 @@ To answer this question, I decided to create a ”Choose Your Own Adventure” g
 ### Link to Game: **https://sites.google.com/view/what-are-the-risks-youth-final/home**
 
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg2.webp    --->
+</br>
 <p align="center"> 
 <img width="700" height="368" alt="screenshot-2026-11-26-004157" src="https://github.com/user-attachments/assets/6c635035-b735-47db-acba-b0c2aca9104d" />
 </br>
@@ -40,8 +41,9 @@ To answer this question, I decided to create a ”Choose Your Own Adventure” g
 Since I was trying to understand the risks to answer the research question, I wanted to explore how harassment affects other people. One topic that kept coming up was the conflict people face when deciding whether to be a “bystander” or an “ally”, which includes the dangers and importance of each decision (Kettrey and Marx, 2018; The Oracle Editorial Board, 2021). It’s important to know the difference between the two because the outcome of a situation may depend on your actions, even when you are not the victim. This means that one of the risks of kids using social media is that they might have to make a tough decision at a young age: whether to be a bystander or an ally.
 
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg3.webp    --->
+</br>
 <p align="center"> 
-<img width="700" height="368" alt="101917-15-sexual-harassment-1" src="https://github.com/user-attachments/assets/0eda1b9c-1eaa-4c1a-bb98-a1e643eefd56" />
+<img width="650" height="342" alt="101917-15-sexual-harassment-1" src="https://github.com/user-attachments/assets/0eda1b9c-1eaa-4c1a-bb98-a1e643eefd56" />
 </br>
 <sub> (Two hands crossing each other with writing on each of them. One has “speak” and the other has “out”.) </sub> 
 </p>
