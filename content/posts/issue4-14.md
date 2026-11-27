@@ -15,7 +15,7 @@ Abstract: This project explores the risks associated with children and adolescen
 <p align="center"> 
 <img width="700" height="325" alt="social-media-a-silent-killer-of-your-mental-health" src="https://github.com/user-attachments/assets/06cb019d-85dc-4ae4-9fa5-8a22be076ce4" />
 </br>
-<sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health." Image source: "Social Media to Us" by Aeron on COMM106/ABPS2a. [noreaboo.wordpress.com/2020/08/12/social-media-to-us/.](https://noreaboo.wordpress.com/2020/08/12/social-media-to-us/)) </sub> 
+<sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health." Image source: "Social Media to Us" by Aeron on COMM106/ABPS2a. https://noreaboo.wordpress.com/2020/08/12/social-media-to-us/) </sub> 
 </p>
 
 ## Introduction
