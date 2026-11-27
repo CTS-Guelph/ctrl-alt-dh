@@ -54,7 +54,7 @@ While researching, a common term that came up was FOMO (fear of missing out). Th
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg4.webp    --->
 </br>
 <p align="center"> 
-<img width="650" height="433" alt="fomo-2" src="https://github.com/user-attachments/assets/0fe846a2-b298-4dbd-bdd0-e8dee2ebc71c" />
+<img width="560" height="373" alt="fomo-2" src="https://github.com/user-attachments/assets/0fe846a2-b298-4dbd-bdd0-e8dee2ebc71c" />
 </br>
 <sub> (Person looking on phone with multiple icons and emojis around them coming from the phone.) </sub> 
 </p>
@@ -65,7 +65,7 @@ After getting more familiar with these topics, I wasn’t sure how to conclude t
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg5.webp    --->
 </br>
 <p align="center"> 
-<img width="640" height="480" alt="c89ad2f4-92b4-41b3-9e85-bc68c4e3d6cb" src="https://github.com/user-attachments/assets/c31bbaa5-c354-4a46-a4fd-0466f5ea27f0" />
+<img width="480" height="360" alt="c89ad2f4-92b4-41b3-9e85-bc68c4e3d6cb" src="https://github.com/user-attachments/assets/c31bbaa5-c354-4a46-a4fd-0466f5ea27f0" />
 </br>
 <sub> (Phone saying “I hate you”. On top of the image it says “Save the Evidence – ID someone bully you online save it and show the message to an adult.”) </sub> 
 </p>
