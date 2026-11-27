@@ -177,7 +177,7 @@ onlinesense.org/10-dilemmas-teens-cybersafety/. *Site no longer availiable.
 
 ## Resources Used in Game
 
-### Sarah Holton
+## Sarah Holton
 
 Bottaro, Angelica. “Cyberbullying: Negative Effects and How You Can Stop It.” Verywell Health, August 18, 2026. www.verywellhealth.com/cyberbullying-effects-and-what-to-do-5220584
 
