@@ -234,6 +234,8 @@ Svoboda, Elizabeth. “Seven Ways to Stand up to Sexual Harassment.” Brewminat
 
 Verizon. “The Right Way to Keep Your Kids Safe Online.” Verizon, July 8, 2019. www.verizon.com/about/parenting/balancing-trust-and-safety-how-parents-can-monitor-their-teens-digital-activity.
 
+### First Image in This Article 
 
+Aeron. “Social Media to Us.” COMM106/ABPS2a, 11 Aug. 2020, noreaboo.wordpress.com/2020/08/12/social-media-to-us/.
 
 
