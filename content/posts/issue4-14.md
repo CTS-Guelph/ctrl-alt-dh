@@ -24,7 +24,7 @@ Although technology has its advantages and disadvantages, almost every technolog
 
 ***“What are the risks of children and adolescents sharing personal information on social media platforms?”***
 
-To answer this question, I decided to create a ”Choose Your Own Adventure” game that gives people an opportunity to experience what it might be like to face different forms of harassment as a teenager.
+To answer this question, I decided to create a ”Choose-Your-Own-Adventure” game that gives people an opportunity to experience what it might be like to face different forms of harassment as a teenager.
 
 ### Link to Game: **https://sites.google.com/view/what-are-the-risks-youth-final/home**
 
@@ -60,7 +60,7 @@ While researching, a common term that came up was FOMO (fear of missing out). Th
 </p>
 </br>
 
-After getting more familiar with these topics, I wasn’t sure how to conclude the Choose Your Own Adventure games while still providing players with accurate information. I began thinking about how someone could respond to another person harassing them online. The most common recommendation I found in my research was to contact the police, which makes sense. However, another important recommendation was NOT to delete the messages or evidence sent by the harasser (Kids Help Phone, 2026; Bottaro, 2026). Therefore, another risk for children and adolescents is that they might not understand the importance of keeping evidence. Without it, they might have difficulty proving what happened.
+After getting more familiar with these topics, I wasn’t sure how to conclude the Choose-Your-Own-Adventure games while still providing players with accurate information. I began thinking about how someone could respond to another person harassing them online. The most common recommendation I found in my research was to contact the police, which makes sense. However, another important recommendation was NOT to delete the messages or evidence sent by the harasser (Kids Help Phone, 2026; Bottaro, 2026). Therefore, another risk for children and adolescents is that they might not understand the importance of keeping evidence. Without it, they might have difficulty proving what happened.
 
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg5.webp    --->
 </br>
