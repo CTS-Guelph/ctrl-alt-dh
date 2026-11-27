@@ -120,7 +120,7 @@ While everyone has different opinions on Duty-based ethics vs. Results-based Eth
 <p align="center"> 
 <img width="560" height="312" alt="wrong-choice_825_460_80_c1 (1)" src="https://github.com/user-attachments/assets/8cfc99a2-b655-4f5a-9e15-d15d02cbe378" />
 </br>
-<sub> (Image with arrows going left and right. Above the arrow on the left is the word “wrong”, and on the right is the word “right”.) </sub> 
+<sub> (Image with arrows going left and right. Above the arrow on the left is the word “wrong”, and on the right is the word “right”. Image source: "Wrong Choice" by Dave Johnson on Life, Hope, & Truth. https://lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice) </sub> 
 </p>
 </br>
 
