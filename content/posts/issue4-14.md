@@ -113,4 +113,15 @@ In one of my earlier blog posts about ethics, I wrote about the differences betw
 </p>
 </br>
 
+While everyone has different opinions on Duty-based ethics vs. Results-based Ethics, in real life, cybersecurity experts and police have some general guidelines for what is right and wrong. So even though people have different ethical perspectives for what the correct options are, I still give the most appropriate right and wrong answer for each conclusion.
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg9.webp    --->
+</br>
+<p align="center"> 
+<img width="768" height="428" alt="wrong-choice_825_460_80_c1 (1)" src="https://github.com/user-attachments/assets/8cfc99a2-b655-4f5a-9e15-d15d02cbe378" />
+</br>
+<sub> (Image with arrows going left and right. Above the arrow on the left is the word “wrong”, and on the right is the word “right”.) </sub> 
+</p>
+</br>
+
 
