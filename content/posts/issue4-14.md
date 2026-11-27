@@ -158,15 +158,15 @@ If I had more time, I would have created a third scenario from the perspective o
 
 ## Resources (Chicago Format)
 
-Johnson, Dave. “Wrong Choice.” Life, Hope & Truth, 2023. lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice/.
+Johnson, Dave. “Wrong Choice.” Life, Hope & Truth, 2023. [lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice/.](https://lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice/)
 
-Kaspersky, Eugene. “Internet Safety for Kids: How to Protect Your Child from the Top 7 Dangers They Face Online.” Usa.Kaspersky.Com, 30 June 2023, usa.kaspersky.com/resource-center/threats/top-seven-dangers-children-face-online.
+Kaspersky, Eugene. “Internet Safety for Kids: How to Protect Your Child from the Top 7 Dangers They Face Online.” Usa.Kaspersky.Com, 30 June 2023, [usa.kaspersky.com/resource-center/threats/top-seven-dangers-children-face-online](https://www.kaspersky.com/resource-center/threats/top-seven-dangers-children-face-online).
 
 Kettrey, Heather Hensman, and Robert Marx. “‘Bystander Effect’ and Sexual Assault: What the Research Says.” The Conversation, October 5, 2018. https://theconversation.com/bystander-effect-and-sexual-assault-what-the-research-says-104360.
 
-Loggins, Brittany. “What Is the Difference between Morality and Ethics?” Verywell Mind, July 2, 2026. www.verywellmind.com/morality-vs-ethics-what-s-the-difference 5195271#:~:text=Many%20definitions%20even%20explain%20ethics%20as%20a%20set,that%20are%20%22moral%22%20as%20determined%20by%20a%20community.
+Loggins, Brittany. “What Is the Difference between Morality and Ethics?” Verywell Mind, July 2, 2026. [www.verywellmind.com/morality-vs-ethics-what-s-the-difference5195271#:~:text=Many%20definitions%20even%20explain%20ethics%20as%20a%20set,that%20are%20%22moral%22%20as%20determined%20by%20a%20community.](https://www.verywellmind.com/morality-vs-ethics-what-s-the-difference-5195271)
 
-Phillips, Colby. “How to Solve the Ethical Dilemma of Stealing a Loaf of Bread to Feed Your Family.” Classroom Synonym, June 30, 2020. classroom.synonym.com/solve-loaf-bread-feed-family-8605955.html.
+Phillips, Colby. “How to Solve the Ethical Dilemma of Stealing a Loaf of Bread to Feed Your Family.” Classroom Synonym, June 30, 2020. [classroom.synonym.com/solve-loaf-bread-feed-family-8605955.html.](https://classroom.synonym.com/solve-loaf-bread-feed-family-8605955.html)
 
 Digital Exposure TV. “Twine 2.0 – How to Add Images / Tutorial #9.” YouTube, 28 October 2017, https://www.youtube.com/watch?v=jjpMc8CtPho&list=PLklITFhXtPCCKadv-0Gcbqoj3OCev695D&index=9
 
@@ -183,7 +183,7 @@ Bottaro, Angelica. “Cyberbullying: Negative Effects and How You Can Stop It.�
 
 Callihoo, Slaferek. “Things You Should Know about Uttering Threat Charges in Canada: Slaferek Callihoo.” Slaferek Law, April 15, 2021. www.slafereklaw.ca/things-know-uttering-threat-charges-canada/
 
-Kids Help Phone. “Get Support.” Kids Help Phone, 2026. kidshelpphone.ca/.
+Kids Help Phone. “Get Support.” Kids Help Phone, 2026. [ kidshelpphone.ca/.](https://kidshelpphone.ca/)
 
 Laurence, Emily. “The Psychology behind the Fear of Missing out (FOMO).” Forbes Magazine, September 20, 2023. www.forbes.com/health/mind/the-psychology-behind-fomo/.
 
@@ -191,29 +191,30 @@ Tee-Melegrito, Rachel Ann. “Social Media Breaks: Benefits and Tips to Consider
 
 ### Images for Sarah Holton
 
-Gath, Dunja. “It Center Blog • RWTH Aachen University.” IT Center Blog •, 19 May 2021, blog.rwth-aachen.de/itc/.
+Gath, Dunja. “It Center Blog • RWTH Aachen University.” IT Center Blog •, 19 May 2021, [blog.rwth-aachen.de/itc/.](https://blog.rwth-aachen.de/itc/)
 
 Kadhim, Nawal. “Cyber Bullying.” Haiku Deck, November 18, 2015, www.haikudeck.com/cyber-bullying–education-presentation-QdSL1CpAc7.
 
-Little, Paw. Comic style girl angry at her phone message and swearing. iStock, September 12, 2019. https://www.istockphoto.com/vector/comic-style-girl-angry-at-her-phone-message-and-swearing-beautiful-young-redhead-gm1174101083-326399615. Accessed 6 Dec. 2023.
+Little, Paw. Comic style girl angry at her phone message and swearing. iStock, September 12, 2019. https://www.istockphoto.com/vector/comic-style-girl-angry-at-her-phone-message-and-swearing-beautiful-young-redhead-gm1174101083-326399615.
 
 Peters, & Cho. Getty Images, (n.d.). https://www.gettyimages.ca/
 
-Todorov, Georgi. “50 Crucial Cyberbullying Stats 2023 [Facts and Trends].” Thrive My Way, May 12, 2023. thrivemyway.com/cyberbullying-stats/.
+Todorov, Georgi. “50 Crucial Cyberbullying Stats 2023 [Facts and Trends].” Thrive My Way, May 12, 2023. [thrivemyway.com/cyberbullying-stats/.](https://thrivemyway.com/cyberbullying-stats/)
 
-The FabFitFun Team. “6 Apps Every Woman Should Have on Her Phone.” FabFitFun, March 9, 2017, fabfitfun.com/magazine/apps-every-woman-should-have-on-phone/.
+The FabFitFun Team. “6 Apps Every Woman Should Have on Her Phone.” FabFitFun, March 9, 2017, [fabfitfun.com/magazine/apps-every-woman-should-have-on-phone/.](https://fabfitfun.com/magazine/apps-every-woman-should-have-on-phone/)
 
 ## Riley Merrick
 
 Common Sense Media. “The Facts about Online Predators Every Parent Should Know.” Common Sense Media, July 17, 2025. www.commonsensemedia.org/articles/the-facts-about-online-predators-every-parent-should-know.
 
-Kids Health. “Teaching Kids to Be Smart about Social Media.” Kids Health, May 2023. kidshealth.org/en/parents/social-media-smarts.html.
+Kids Health. “Teaching Kids to Be Smart about Social Media.” Kids Health, May 2023.[ kidshealth.org/en/parents/social-media-smarts.html.
+](https://kidshealth.org/en/parents/social-media-smarts.html.)
 
-Kids Help Phone. “Get Support.” Kids Help Phone, 2026. kidshelpphone.ca/.
+Kids Help Phone. “Get Support.” Kids Help Phone, 2026. [kidshelpphone.ca/.](https://kidshelpphone.ca/)
 
 Regain Editorial Team. “8 Reasons Caution Is Needed to Chat with Strangers Online.” Regain, August 22, 2023. www.regain.us/advice/love/8-reasons-caution-is-needed-to-chat-with-strangers-online/.
 
-The Oracle Editoral Board. “The Importance of Being an Ally: To Survivors of Sexual Violence.” The Oracle, May 21, 2021. theoracle.glenbrook225.org/opinions/editorials/2021/05/21/the-importance-of-being-an-ally-to-survivors-of-sexual-violence-2/.
+The Oracle Editoral Board. “The Importance of Being an Ally: To Survivors of Sexual Violence.” The Oracle, May 21, 2021. [theoracle.glenbrook225.org/opinions/editorials/2021/05/21/the-importance-of-being-an-ally-to-survivors-of-sexual-violence-2/.](https://theoracle.glenbrook225.org/opinions/editorials/2021/05/21/the-importance-of-being-an-ally-to-survivors-of-sexual-violence-2/)
 
 WebMD Editorial team. “6 Tips on How to Talk to Your Kids about Social Media.” WebMD, April 9, 2023. www.webmd.com/parenting/how-to-talk-to-kids-about-social-media.
 
@@ -221,21 +222,21 @@ Youn, Soo. “Want to Support Survivors of Sexual Assault? Here’s What Advocat
 
 ### Images Used for Riley Merrick
 
-Affordable Educators Admin. “Sexual Harassment and the Bystander Effect.” Affordable Educators, August 27, 2023. affordableeducators.com/online-sexual-harassment-training/sexual-harassment-and-the-bystander-effect/.
+Affordable Educators Admin. “Sexual Harassment and the Bystander Effect.” Affordable Educators, August 27, 2023. [affordableeducators.com/online-sexual-harassment-training/sexual-harassment-and-the-bystander-effect/.](https://affordableeducators.com/online-sexual-harassment-training/sexual-harassment-and-the-bystander-effect/)
 
-Body Language Central. “What Does It Mean When a Girl Ignores You?” Body Language Central, March 4, 2021. bodylanguagecentral.com/what-does-it-mean-when-a-girl-ignores-you/#google_vignette.
+Body Language Central. “What Does It Mean When a Girl Ignores You?” Body Language Central, March 4, 2021. [bodylanguagecentral.com/what-does-it-mean-when-a-girl-ignores-you/#google_vignette.](https://bodylanguagecentral.com/what-does-it-mean-when-a-girl-ignores-you/#google_vignette.)
 
 Gibson, Brittney. “How to Survive Growing Apart from Your Best Friend.” Sweety High, August 30, 2016. www.sweetyhigh.com/read/best-friends-growing-apart-083016.
 
 HuffPost. “Breaking News, U.S. and World News.” HuffPost, 2023. www.huffpost.com/.
 
-Svoboda, Elizabeth. “Seven Ways to Stand up to Sexual Harassment.” Brewminate, October 18, 2017. brewminate.com/seven-ways-to-stand-up-to-sexual-harassment/.
+Svoboda, Elizabeth. “Seven Ways to Stand up to Sexual Harassment.” Brewminate, October 18, 2017. [brewminate.com/seven-ways-to-stand-up-to-sexual-harassment/.](https://brewminate.com/seven-ways-to-stand-up-to-sexual-harassment/)
 
 Verizon. “The Right Way to Keep Your Kids Safe Online.” Verizon, July 8, 2019. www.verizon.com/about/parenting/balancing-trust-and-safety-how-parents-can-monitor-their-teens-digital-activity.
 
 ### Image used at the beginning
 
-Aeron. “Social Media to Us.” COMM106/ABPS2a, 11 Aug. 2020, noreaboo.wordpress.com/2020/08/12/social-media-to-us/.
+Aeron. “Social Media to Us.” COMM106/ABPS2a, 11 Aug. 2020, [noreaboo.wordpress.com/2020/08/12/social-media-to-us/. ](https://noreaboo.wordpress.com/2020/08/12/social-media-to-us/)
 
 
 
