@@ -71,4 +71,17 @@ After getting more familiar with these topics, I wasn’t sure how to conclude t
 </p>
 </br>
 
+Another risk involves the relationship between children and their parents. Although several factors can influence how children respond to online situations, parental guidance and supervision play an important role. If parents aren’t involved in teaching their child how to protect themselves online, it could lead to them exposing personal information. This might create opportunities for unwanted attention or harassment by others. But if the parents are too involved, the child may then lie about their online activities and end up having even more long-term harassment towards them. This ultimately means that when children and adolescents go on social media, there is risk that it affects the relationship between them and their parents.
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg6.webp    --->
+</br>
+<p align="center"> 
+<img width="768" height="432" alt="0160003-9958-parents-watching-kid-online-1280x720-v1-2" src="https://github.com/user-attachments/assets/32d3cf18-bc98-42ea-a1a0-4e07694b87f9" />
+</br>
+<sub> (Parents behind a child who is on a couch, watching the child be on a computer.) </sub> 
+</p>
+</br>
+
+
+
 
