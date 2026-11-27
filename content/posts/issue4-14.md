@@ -82,6 +82,27 @@ Another risk involves the relationship between children and their parents. Altho
 </p>
 </br>
 
+After gathering enough information to develop different conclusions, I began working on how the characters would arrive at each incident. This involved creating the decision points for my Choose Your Own Adventure game, which connects to the main theme of my project: ethics. For that reason, I wanted to find an exact definition that would help me develop these decisions:
+
+### “A system or set of moral principles; (in a weaker sense) a set of social or personal values.”
+
+– By Brittany Loggins
+(Loggins, 2026)
+
+Given this definition, I wanted to express that everyone has different opinions and personal values when it comes to dealing with the stuff on the internet used in my game. This connects to my research question because one of the risks of social media is that people often rely on their personal beliefs when making decisions. But when people make those decisions, they are responsible for the consequences of their actions – in certain cases.
+
+One example of how I applied this concept in my game was through Sarah Holton’s third conclusion, titled “Retaliate against him”. In the game, choosing this conclusion causes her to respond to the person harassing her through her posts. As a result, she is ‘feeding the bully’ by giving them more opportunities to harass her. She also risks losing her integrity, and if the conversation escalates, she could lose the reason that explains that she was not at fault.
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg7.webp    --->
+</br>
+<p align="center"> 
+<img width="589" height="295" alt="istockphoto-1174101083-170667a-1" src="https://github.com/user-attachments/assets/ab279504-da2d-49a0-a29d-85f0810c8706" />
+</br>
+<sub> (Comic-looking image of a person yelling towards a phone, with symbols next to them implying they are swearing.) </sub> 
+</p>
+</br>
+
+
 
 
 
