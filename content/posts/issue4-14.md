@@ -67,7 +67,7 @@ After getting more familiar with these topics, I wasn’t sure how to conclude t
 <p align="center"> 
 <img width="480" height="360" alt="c89ad2f4-92b4-41b3-9e85-bc68c4e3d6cb" src="https://github.com/user-attachments/assets/c31bbaa5-c354-4a46-a4fd-0466f5ea27f0" />
 </br>
-<sub> (Phone saying “I hate you”. On top of the image it says “Save the Evidence – ID someone bully you online save it and show the message to an adult.”) </sub> 
+<sub> (Phone saying “I hate you”. On top of the image it says “Save the Evidence – ID someone bully you online save it and show the message to an adult.” Image source: Slide 3 of "Cyber Bullying" presentation by nawalkkadhim via Haiku Deck (https://www.haikudeck.com/cyber-bullying%E2%80%93education-presentation-QdSL1CpAc7#slide3)) </sub> 
 </p>
 </br>
 
