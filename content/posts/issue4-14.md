@@ -124,4 +124,22 @@ While everyone has different opinions on Duty-based ethics vs. Results-based Eth
 </p>
 </br>
 
+While I did research topics on cyberbullying, cyber sexual harassment, disinformation, racism, and hate speech, I also discovered that children face several risks outside of those issues. Personal relationships, emotional well-being, and physical safety can all be affected by experiencing online harassment. This is because sometimes the decisions being made involve the choices to be an ally, talk to parents, or take a break from social media. Although it’s not the victims fault for being harassed, the choices made before, during, and after the event can influence how the situation develops. Ultimately, it comes down to the ethical decisions young people make and which choices may be most beneficial to them, regardless of whether those decisions are considered morally right.
+
+## Reflection:
+
+Creating this game definitely required more effort than I thought it would, but overall, I think I did a great job. For me, the most challenging part was making the scenarios believable. In the real world however, I realized that because these situations happen suddenly online, it would be more realistic to have events also happen suddenly and without warning in the game.
+
+Another challenge was coming up with the ideas. Developing the conclusions was pretty simple, but figuring out how to lead the players toward them was more difficult. When I was brainstorming ideas, I would literally throw an idea away, only to come back to it later because I realized it wasn’t as bad as I initially thought. This is why the papers containing the original plan for Riley Merrick are crumpled.
+
+When building my first Choose Your Own Adventure scenario, I had a plan in mind for Sarah Holton. I realized that there were going to have to be two general topics: Conclusions 1 and 2 focus on the emotional effects of social media, including FOMO, and conclusions 4, 5, and 6 focus on the legal aspects and when to report someone. I also knew it would be best to have one option that could lead up to almost every other path, which was ‘Arguing with the Harasser’ (Conclusion 3). Besides that, developing Sarah Holton’s storyline was pretty straightforward.
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg10.webp    --->
+</br>
+<p align="center"> 
+<img width="900" height="400" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/23d25708-ef4d-473d-b871-133e74b4b0d4" />
+</br>
+<sub> (The basic organization done on paper for creating Sarah Holtons paths in the game.) </sub> 
+</p>
+</br>
 
