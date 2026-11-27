@@ -47,6 +47,7 @@ Since I was trying to understand the risks to answer the research question, I wa
 </br>
 <sub> (Two hands crossing each other with writing on each of them. One has “speak” and the other has “out”.) </sub> 
 </p>
+</br>
 
 While researching, a common term that came up was FOMO (fear of missing out). This has become an increasingly recognized issue, especially for children and adolescents. Between 2018 and 2021, various studies found that social media could contribute to FOMO, which can lead to sleep difficulties and problems (Tee-Melegrito, 2023).
 
