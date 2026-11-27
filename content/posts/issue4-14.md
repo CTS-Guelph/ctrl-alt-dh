@@ -156,7 +156,7 @@ My second Choose-Your-Own-Adventure scenario focused on Riley Merrick. I followe
 
 If I had more time, I would have created a third scenario from the perspective of a person harassing someone else. I would probably make this character an adult male to create a better balance of gender and age representation. I would also make him start from a difficult home environment, and give him the option to stop harassing other at any point. This would allow him to change his behaviour before potentially getting arrested or charged.
 
-## Resources (Chicago Format)
+### References
 
 Johnson, Dave. “Wrong Choice.” Life, Hope & Truth, 2023. [lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice/.](https://lifehopeandtruth.com/change/sin/deadly-sins/wrong-choice/)
 
