@@ -54,9 +54,9 @@ While researching, a common term that came up was FOMO (fear of missing out). Th
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg4.webp    --->
 </br>
 <p align="center"> 
-<img width="560" height="373" alt="fomo-2" src="https://github.com/user-attachments/assets/0fe846a2-b298-4dbd-bdd0-e8dee2ebc71c" />
+<img width="560" height="373" alt="4333886 DlsHFNIW_Z2rypj7" src="https://github.com/user-attachments/assets/26cd45aa-c36a-492f-b6fc-75b1f8854348" />
 </br>
-<sub> (Person looking on phone with multiple icons and emojis around them coming from the phone.) </sub> 
+<sub> (Person looking on phone with multiple icons and emojis around them coming from the phone. Image source: "Who really makes you happiest? How to track your Social Life and Mood to get useful insights" by James on Bearable. https://bearable.app/who-really-makes-you-happiest-how-to-track-your-social-life-and-mood-to-get-useful-insights/) </sub> 
 </p>
 </br>
 
@@ -190,6 +190,8 @@ Laurence, Emily. “The Psychology behind the Fear of Missing out (FOMO).” For
 Tee-Melegrito, Rachel Ann. “Social Media Breaks: Benefits and Tips to Consider.” Medical News Today, Feburary 9, 2023, www.medicalnewstoday.com/articles/social-media-breaks#signs-of-needing-a-break.
 
 ### Images for Sarah Holton
+
+Bearable. "Who really makes you happiest? How to track your Social Life and Mood to get useful insights." Bearable, April 30, 2021, https://bearable.app/who-really-makes-you-happiest-how-to-track-your-social-life-and-mood-to-get-useful-insights/
 
 Gath, Dunja. “It Center Blog • RWTH Aachen University.” IT Center Blog •, 19 May 2021, [blog.rwth-aachen.de/itc/.](https://blog.rwth-aachen.de/itc/)
 
