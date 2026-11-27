@@ -45,7 +45,7 @@ Since I was trying to understand the risks to answer the research question, I wa
 <p align="center"> 
 <img width="650" height="342" alt="101917-15-sexual-harassment-1" src="https://github.com/user-attachments/assets/0eda1b9c-1eaa-4c1a-bb98-a1e643eefd56" />
 </br>
-<sub> (Two hands crossing each other with writing on each of them. One has “speak” and the other has “out”.) </sub> 
+<sub> (Two hands crossing each other with writing on each of them. One has “speak” and the other has “out”. Image source: "Seven Ways to Stand Up to Sexual Harassment" By Elizabeth Svoboda on Brewminate. https://brewminate.com/seven-ways-to-stand-up-to-sexual-harassment/) </sub> 
 </p>
 </br>
 
@@ -194,8 +194,6 @@ Tee-Melegrito, Rachel Ann. “Social Media Breaks: Benefits and Tips to Consider
 Gath, Dunja. “It Center Blog • RWTH Aachen University.” IT Center Blog •, 19 May 2021, [blog.rwth-aachen.de/itc/.](https://blog.rwth-aachen.de/itc/)
 
 Kadhim, Nawal. “Cyber Bullying.” Haiku Deck, November 18, 2015, www.haikudeck.com/cyber-bullying–education-presentation-QdSL1CpAc7.
-
-Peters, & Cho. Getty Images, (n.d.). https://www.gettyimages.ca/
 
 Shaw, Jodie. "The Business of Anger." Medium, October 18, 2025. https://medium.com/@jodiemshaw/the-business-of-anger-7292b9fa355e 
 
