@@ -12,7 +12,25 @@ Abstract: This project explores the risks associated with children and adolescen
 # What are the risks of children and adolescents sharing personal information on social media platforms?
 
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg1.webp    --->
-<figure class="art-image">
-<img width="1200" height="600" alt="social-media-a-silent-killer-of-your-mental-health" src="https://github.com/user-attachments/assets/06cb019d-85dc-4ae4-9fa5-8a22be076ce4" />
+<p align="center"> 
+<img width="800" height="400" alt="social-media-a-silent-killer-of-your-mental-health" src="https://github.com/user-attachments/assets/06cb019d-85dc-4ae4-9fa5-8a22be076ce4" />
+</br>
 <sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health.") </sub> 
-</figure>
+</p>
+
+## Introduction
+
+Although technology has its advantages and disadvantages, almost every technological advancement comes with potential risks. In the case of social media, it has a particularly significant impact on children and adolescents. This is because they might not have the experience needed to protect themselves in an environment where others can watch them whenever they want to. So one big question I have begun to ask is –
+
+***“What are the risks of children and adolescents sharing personal information on social media platforms?”***
+
+To answer this question, I decided to create a ”Choose Your Own Adventure” game that gives people an opportunity to experience what it might be like to face different forms of harassment as a teenager.
+
+## Link to Game:
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg2.webp    --->
+<p align="center"> 
+<img width="800" height="400" alt="social-media-a-silent-killer-of-your-mental-health" src="https://github.com/user-attachments/assets/06cb019d-85dc-4ae4-9fa5-8a22be076ce4" />
+</br>
+<sub> (Graphic of a person clutching their head behind social media app icons beside text reading "Social Media a 'Silent Killer' of your Mental Health.") </sub> 
+</p>
