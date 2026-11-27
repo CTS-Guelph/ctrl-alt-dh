@@ -102,7 +102,15 @@ One example of how I applied this concept in my game was through Sarah Holton’
 </p>
 </br>
 
+In one of my earlier blog posts about ethics, I wrote about the differences between Results-Based Ethics vs. Duty-Based Ethics. In summary, Results-Based Ethics is the idea that an action is ethical only if its results are more beneficial than harmful to society. In contrast, Duty-Based Ethics is the idea that an action is right because of the feeling of responsibility to do the right thing, regardless of the consequences. For my Choose Your Own Adventure game, I wanted to create decision points that would challenge each of these arguments. With this in mind, I created a choice for players about whether they wanted to be a bystander or an ally, remain active on social media or reduce their content consumption, and react or ignore certain situations. Each of these choices might damage your character socially, but could be really damaging to someone else if not taken care of.
 
-
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg8.webp    --->
+</br>
+<p align="center"> 
+<img width="2800" height="450" alt="Untitled design" src="https://github.com/user-attachments/assets/86d83bc8-ddde-4f23-b566-d0b17a626643" />
+</br>
+<sub> (Connections made in Twine for the project. Each connection is an ethical choice that impacts the story.) </sub> 
+</p>
+</br>
 
 
