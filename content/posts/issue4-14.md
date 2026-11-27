@@ -78,7 +78,7 @@ Another risk involves the relationship between children and their parents. Altho
 <p align="center"> 
 <img width="640" height="360" alt="0160003-9958-parents-watching-kid-online-1280x720-v1-2" src="https://github.com/user-attachments/assets/32d3cf18-bc98-42ea-a1a0-4e07694b87f9" />
 </br>
-<sub> (Parents behind a child who is on a couch, watching the child be on a computer.) </sub> 
+<sub> (Parents behind a child who is on a couch, watching the child be on a computer. Image source: "Balancing Trust and Safety: How Parents Can Monitor Their Teen's Digital Activtiy," Verizon. https://www.verizon.com/about/parenting/balancing-trust-and-safety-how-parents-can-monitor-their-teens-digital-activity) </sub> 
 </p>
 </br>
 
