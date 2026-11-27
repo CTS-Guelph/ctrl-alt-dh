@@ -96,9 +96,9 @@ One example of how I applied this concept in my game was through Sarah Holton’
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg7.webp    --->
 </br>
 <p align="center"> 
-<img width="589" height="295" alt="istockphoto-1174101083-170667a-1" src="https://github.com/user-attachments/assets/ab279504-da2d-49a0-a29d-85f0810c8706" />
+<img width="589" height="295" alt="1_cCLlCKEVc-0ogNhw8rKzbQ" src="https://github.com/user-attachments/assets/b3a18be5-fb21-40ae-bf75-a2755733235f" />
 </br>
-<sub> (Comic-looking image of a person yelling towards a phone, with symbols next to them implying they are swearing.) </sub> 
+<sub> (Comic-looking image of a person yelling towards a phone, with symbols next to them implying they are swearing. Image Source: From Jodie Shaw in the article "The Business of Anger" https://medium.com/@jodiemshaw/the-business-of-anger-7292b9fa355e) </sub> 
 </p>
 </br>
 
@@ -195,9 +195,9 @@ Gath, Dunja. “It Center Blog • RWTH Aachen University.” IT Center Blog •
 
 Kadhim, Nawal. “Cyber Bullying.” Haiku Deck, November 18, 2015, www.haikudeck.com/cyber-bullying–education-presentation-QdSL1CpAc7.
 
-Little, Paw. Comic style girl angry at her phone message and swearing. iStock, September 12, 2019. https://www.istockphoto.com/vector/comic-style-girl-angry-at-her-phone-message-and-swearing-beautiful-young-redhead-gm1174101083-326399615.
-
 Peters, & Cho. Getty Images, (n.d.). https://www.gettyimages.ca/
+
+Shaw, Jodie. "The Business of Anger." Medium, October 18, 2025. https://medium.com/@jodiemshaw/the-business-of-anger-7292b9fa355e 
 
 Todorov, Georgi. “50 Crucial Cyberbullying Stats 2023 [Facts and Trends].” Thrive My Way, May 12, 2023. [thrivemyway.com/cyberbullying-stats/.](https://thrivemyway.com/cyberbullying-stats/)
 
