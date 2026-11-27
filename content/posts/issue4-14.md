@@ -65,7 +65,7 @@ After getting more familiar with these topics, I wasn’t sure how to conclude t
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg5.webp    --->
 </br>
 <p align="center"> 
-<img width="768" height="576" alt="c89ad2f4-92b4-41b3-9e85-bc68c4e3d6cb" src="https://github.com/user-attachments/assets/c31bbaa5-c354-4a46-a4fd-0466f5ea27f0" />
+<img width="640" height="480" alt="c89ad2f4-92b4-41b3-9e85-bc68c4e3d6cb" src="https://github.com/user-attachments/assets/c31bbaa5-c354-4a46-a4fd-0466f5ea27f0" />
 </br>
 <sub> (Phone saying “I hate you”. On top of the image it says “Save the Evidence – ID someone bully you online save it and show the message to an adult.”) </sub> 
 </p>
@@ -76,7 +76,7 @@ Another risk involves the relationship between children and their parents. Altho
 <!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg6.webp    --->
 </br>
 <p align="center"> 
-<img width="768" height="432" alt="0160003-9958-parents-watching-kid-online-1280x720-v1-2" src="https://github.com/user-attachments/assets/32d3cf18-bc98-42ea-a1a0-4e07694b87f9" />
+<img width="640" height="360" alt="0160003-9958-parents-watching-kid-online-1280x720-v1-2" src="https://github.com/user-attachments/assets/32d3cf18-bc98-42ea-a1a0-4e07694b87f9" />
 </br>
 <sub> (Parents behind a child who is on a couch, watching the child be on a computer.) </sub> 
 </p>
