@@ -51,6 +51,14 @@ Since I was trying to understand the risks to answer the research question, I wa
 
 While researching, a common term that came up was FOMO (fear of missing out). This has become an increasingly recognized issue, especially for children and adolescents. Between 2018 and 2021, various studies found that social media could contribute to FOMO, which can lead to sleep difficulties and problems (Tee-Melegrito, 2023).
 
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg4.webp    --->
+</br>
+<p align="center"> 
+<img width="768" height="512" alt="fomo-2" src="https://github.com/user-attachments/assets/0fe846a2-b298-4dbd-bdd0-e8dee2ebc71c" />
+</br>
+<sub> (Person looking on phone with multiple icons and emojis around them coming from the phone.) </sub> 
+</p>
+</br>
 
 
 
