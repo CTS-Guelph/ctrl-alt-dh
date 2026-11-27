@@ -143,3 +143,14 @@ When building my first Choose Your Own Adventure scenario, I had a plan in mind 
 </p>
 </br>
 
+My second Choose Your Own Adventure scenario focused on Riley Merrick. I followed the same structure as the previous scenario, with my two main topics being ally/bystander and catfishing/grooming, while my secondary option focused on talking to the parents. This scenario took a little longer than the previous one because I had to provide more details about my two main topics to give players enough content. For example, in the grooming/catfishing scenario, I explained that the person did several things that suggested ‘Shadow Hunter’ wasn’t who they claimed to be. This included stalking, making inconsistent statements, and always agreeing with the player’s character. Additionally, my placeholder name was Re-Re, then Riley Jution, but it eventually changed into Riley Merrick, which is why you see those names written on the papers.
+
+<!---   Image: {static}/images/issue4-images/hendriksthomasrisksimg11.webp    --->
+</br>
+<p align="center"> 
+<img width="900" height="400" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/a402e82b-ae4f-421d-8394-331c7f807112" />
+</br>
+<sub> (The basic organization done on paper for creating Riley Merrick paths in the game) </sub> 
+</p>
+</br>
+
