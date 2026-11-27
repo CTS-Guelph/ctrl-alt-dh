@@ -1,8 +1,8 @@
 ---
 Title: What are the risks of children and adolescents sharing personal information on social media platforms?
-Date: 2026-12-03
+Date: 2026-11-26
 Issue: Issue 4
-Citation: Hendriks, Thomas. "What are the risks of children and adolescents sharing personal information on social media platforms?" December 3, 2026. Github. https://cts-guelph.github.io/ctrl-alt-dh/What-are-the-risks-of-children-and-adolescents-sharing-personal-information-on-social-media-platforms?.html
+Citation: Hendriks, Thomas. "What are the risks of children and adolescents sharing personal information on social media platforms?" November 26, 2026. Github. https://cts-guelph.github.io/ctrl-alt-dh/What-are-the-risks-of-children-and-adolescents-sharing-personal-information-on-social-media-platforms?.html
 Tags: Power & Surveillance, Mental Health & Wellness, Politics & Ethics, Media & Communication, Interactive, Articles and Essays
 Authors: Thomas Hendriks
 Bio: Thomas Hendriks (he/him) is majoring in Culture and Technology Studies, with minors in Project Management and Marketing. With a background in Computer Science, Communications Technology, and Youtube content creation, he has developed a strong interest in how technology shapes culture, communication, and everyday life. 
